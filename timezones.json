@@ -1,0 +1,2932 @@
+[
+    {
+        "value": "Etc/GMT+12",
+        "label": "(GMT -12:00) GMT-12:00 (Etc/GMT+12)",
+        "ulid": "01H2MA80MN1V22W4HT3B9ZMZD6"
+    },
+    {
+        "value": "Etc/GMT+11",
+        "label": "(GMT -11:00) GMT-11:00 (Etc/GMT+11)",
+        "ulid": "01H2MA80MN53W7J1PYYCPXXE4Q"
+    },
+    {
+        "value": "MIT",
+        "label": "(GMT -11:00) West Samoa Time (MIT)",
+        "ulid": "01H2MA80MNJQT7Q7GZFV110JG0"
+    },
+    {
+        "value": "Pacific/Apia",
+        "label": "(GMT -11:00) West Samoa Time (Pacific/Apia)",
+        "ulid": "01H2MA80MNVBEF1ZMPY901SMM9"
+    },
+    {
+        "value": "Pacific/Mvalueway",
+        "label": "(GMT -11:00) Samoa Standard Time (Pacific/Mvalueway)",
+        "ulid": "01H2MA80MNR0MQMDJ451ECD7PY"
+    },
+    {
+        "value": "Pacific/Niue",
+        "label": "(GMT -11:00) Niue Time (Pacific/Niue)",
+        "ulid": "01H2MA80MNET18A8RRFQJANWAD"
+    },
+    {
+        "value": "Pacific/Pago_Pago",
+        "label": "(GMT -11:00) Samoa Standard Time (Pacific/Pago_Pago)",
+        "ulid": "01H2MA80MNG6XBEPWJN7XQ264F"
+    },
+    {
+        "value": "Pacific/Samoa",
+        "label": "(GMT -11:00) Samoa Standard Time (Pacific/Samoa)",
+        "ulid": "01H2MA80MN4RGX1EVNYM53QKVG"
+    },
+    {
+        "value": "US/Samoa",
+        "label": "(GMT -11:00) Samoa Standard Time (US/Samoa)",
+        "ulid": "01H2MA80MNWSBC5CE48DJPACZK"
+    },
+    {
+        "value": "America/Adak",
+        "label": "(GMT -10:00) Hawaii-Aleutian Daylight Time (America/Adak)",
+        "ulid": "01H2MA80MNS0NEWCXWS0TB7MK7"
+    },
+    {
+        "value": "America/Atka",
+        "label": "(GMT -10:00) Hawaii-Aleutian Daylight Time (America/Atka)",
+        "ulid": "01H2MA80MN2WG9B2V48S8TBNAF"
+    },
+    {
+        "value": "Etc/GMT+10",
+        "label": "(GMT -10:00) GMT-10:00 (Etc/GMT+10)",
+        "ulid": "01H2MA80MNM8YDZW8M4BWRE7MJ"
+    },
+    {
+        "value": "HST",
+        "label": "(GMT -10:00) Hawaii Standard Time (HST)",
+        "ulid": "01H2MA80MN5ED34Y61QJ9T8XE9"
+    },
+    {
+        "value": "Pacific/Fakaofo",
+        "label": "(GMT -10:00) Tokelau Time (Pacific/Fakaofo)",
+        "ulid": "01H2MA80MN7JK479VWCQT4XPQE"
+    },
+    {
+        "value": "Pacific/Honolulu",
+        "label": "(GMT -10:00) Hawaii Standard Time (Pacific/Honolulu)",
+        "ulid": "01H2MA80MN0X1M0AX1S0ANBVJD"
+    },
+    {
+        "value": "Pacific/Johnston",
+        "label": "(GMT -10:00) Hawaii Standard Time (Pacific/Johnston)",
+        "ulid": "01H2MA80MNGEE0A47FFKM4PVEN"
+    },
+    {
+        "value": "Pacific/Rarotonga",
+        "label": "(GMT -10:00) Cook Is. Time (Pacific/Rarotonga)",
+        "ulid": "01H2MA80MNWRN8A1313F6W7MNG"
+    },
+    {
+        "value": "Pacific/Tahiti",
+        "label": "(GMT -10:00) Tahiti Time (Pacific/Tahiti)",
+        "ulid": "01H2MA80MNQG84XQHR0HXXE3KR"
+    },
+    {
+        "value": "SystemV/HST10",
+        "label": "(GMT -10:00) Hawaii Standard Time (SystemV/HST10)",
+        "ulid": "01H2MA80MNBT5NHHHTWH9W0YZZ"
+    },
+    {
+        "value": "US/Aleutian",
+        "label": "(GMT -10:00) Hawaii-Aleutian Daylight Time (US/Aleutian)",
+        "ulid": "01H2MA80MN7BSK0DAQYP7VAN1R"
+    },
+    {
+        "value": "US/Hawaii",
+        "label": "(GMT -10:00) Hawaii Standard Time (US/Hawaii)",
+        "ulid": "01H2MA80MNZVZAZC00AQ204EZE"
+    },
+    {
+        "value": "Pacific/Marquesas",
+        "label": "(GMT -9:30) Marquesas Time (Pacific/Marquesas)",
+        "ulid": "01H2MA80MNRVCA7Z83FST8Q059"
+    },
+    {
+        "value": "AST",
+        "label": "(GMT -9:00) Alaska Daylight Time (AST)",
+        "ulid": "01H2MA80MNXRT6A57YGXPMXMRK"
+    },
+    {
+        "value": "America/Anchorage",
+        "label": "(GMT -9:00) Alaska Daylight Time (America/Anchorage)",
+        "ulid": "01H2MA80MN7NPGHT89S92P9TTX"
+    },
+    {
+        "value": "America/Juneau",
+        "label": "(GMT -9:00) Alaska Daylight Time (America/Juneau)",
+        "ulid": "01H2MA80MN034AWRSXBJHK4QA8"
+    },
+    {
+        "value": "America/Nome",
+        "label": "(GMT -9:00) Alaska Daylight Time (America/Nome)",
+        "ulid": "01H2MA80MNPA1XFZWDQY8S34H8"
+    },
+    {
+        "value": "America/Yakutat",
+        "label": "(GMT -9:00) Alaska Daylight Time (America/Yakutat)",
+        "ulid": "01H2MA80MP3BMJQ735159SY733"
+    },
+    {
+        "value": "Etc/GMT+9",
+        "label": "(GMT -9:00) GMT-09:00 (Etc/GMT+9)",
+        "ulid": "01H2MA80MPTNFZPACRN2SJGHRY"
+    },
+    {
+        "value": "Pacific/Gambier",
+        "label": "(GMT -9:00) Gambier Time (Pacific/Gambier)",
+        "ulid": "01H2MA80MP4GVW2F3Z1J6MN1C1"
+    },
+    {
+        "value": "SystemV/YST9",
+        "label": "(GMT -9:00) Alaska Standard Time (SystemV/YST9)",
+        "ulid": "01H2MA80MPM3QRG7NQ0PWPAX5A"
+    },
+    {
+        "value": "SystemV/YST9YDT",
+        "label": "(GMT -9:00) Alaska Daylight Time (SystemV/YST9YDT)",
+        "ulid": "01H2MA80MP85511B2MMR2ESM1T"
+    },
+    {
+        "value": "US/Alaska",
+        "label": "(GMT -9:00) Alaska Daylight Time (US/Alaska)",
+        "ulid": "01H2MA80MP1TCTTX9W8PEC6V3P"
+    },
+    {
+        "value": "America/Dawson",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Dawson)",
+        "ulid": "01H2MA80MP94V5D4A6XQ5XMZPX"
+    },
+    {
+        "value": "America/Ensenada",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Ensenada)",
+        "ulid": "01H2MA80MPGD4HWZMG1475Z1RM"
+    },
+    {
+        "value": "America/Los_Angeles",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Los_Angeles)",
+        "ulid": "01H2MA80MPGMX71G31BV1Z2AWY"
+    },
+    {
+        "value": "America/Tijuana",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Tijuana)",
+        "ulid": "01H2MA80MPDWJCETEAPMB5BC77"
+    },
+    {
+        "value": "America/Vancouver",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Vancouver)",
+        "ulid": "01H2MA80MP48MYK28FDR9RWJ8X"
+    },
+    {
+        "value": "America/Whitehorse",
+        "label": "(GMT -8:00) Pacific Daylight Time (America/Whitehorse)",
+        "ulid": "01H2MA80MPFB0XD47FY44VCFE3"
+    },
+    {
+        "value": "Canada/Pacific",
+        "label": "(GMT -8:00) Pacific Daylight Time (Canada/Pacific)",
+        "ulid": "01H2MA80MPX3YZBWJVBNS7JZC1"
+    },
+    {
+        "value": "Canada/Yukon",
+        "label": "(GMT -8:00) Pacific Daylight Time (Canada/Yukon)",
+        "ulid": "01H2MA80MP9B597DKNXXNGZ8QM"
+    },
+    {
+        "value": "Etc/GMT+8",
+        "label": "(GMT -8:00) GMT-08:00 (Etc/GMT+8)",
+        "ulid": "01H2MA80MPS230KXKCG8PYV656"
+    },
+    {
+        "value": "Mexico/BajaNorte",
+        "label": "(GMT -8:00) Pacific Daylight Time (Mexico/BajaNorte)",
+        "ulid": "01H2MA80MPDTYV6976MY5RQFE1"
+    },
+    {
+        "value": "PST",
+        "label": "(GMT -8:00) Pacific Daylight Time (PST)",
+        "ulid": "01H2MA80MPF9HQ7N2BTPZHVD1M"
+    },
+    {
+        "value": "PST8PDT",
+        "label": "(GMT -8:00) Pacific Daylight Time (PST8PDT)",
+        "ulid": "01H2MA80MPK1MXQE2FE270ER03"
+    },
+    {
+        "value": "Pacific/Pitcairn",
+        "label": "(GMT -8:00) Pitcairn Standard Time (Pacific/Pitcairn)",
+        "ulid": "01H2MA80MPRV42S3KYZ8M1JCY1"
+    },
+    {
+        "value": "SystemV/PST8",
+        "label": "(GMT -8:00) Pacific Standard Time (SystemV/PST8)",
+        "ulid": "01H2MA80MP3STPFBQH27XJHH2W"
+    },
+    {
+        "value": "SystemV/PST8PDT",
+        "label": "(GMT -8:00) Pacific Daylight Time (SystemV/PST8PDT)",
+        "ulid": "01H2MA80MP6ZN6Y3TKMS0BDCY1"
+    },
+    {
+        "value": "US/Pacific",
+        "label": "(GMT -8:00) Pacific Daylight Time (US/Pacific)",
+        "ulid": "01H2MA80MP71ZZ2WKTRRPWAR96"
+    },
+    {
+        "value": "US/Pacific-New",
+        "label": "(GMT -8:00) Pacific Daylight Time (US/Pacific-New)",
+        "ulid": "01H2MA80MPMA3AA11JRX2JY98S"
+    },
+    {
+        "value": "America/Boise",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Boise)",
+        "ulid": "01H2MA80MP369V7S0BYZ681YVX"
+    },
+    {
+        "value": "America/Cambrvaluege_Bay",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Cambrvaluege_Bay)",
+        "ulid": "01H2MA80MP2K7C3KKZN4NC9FDY"
+    },
+    {
+        "value": "America/Chihuahua",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Chihuahua)",
+        "ulid": "01H2MA80MP899DFAWNJMEP5YCA"
+    },
+    {
+        "value": "America/Dawson_Creek",
+        "label": "(GMT -7:00) Mountain Standard Time (America/Dawson_Creek)",
+        "ulid": "01H2MA80MPQG73C5M4X1ZDZG1H"
+    },
+    {
+        "value": "America/Denver",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Denver)",
+        "ulid": "01H2MA80MP9JTFYZHPGNT5236R"
+    },
+    {
+        "value": "America/Edmonton",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Edmonton)",
+        "ulid": "01H2MA80MPB5M13F2FHSGVRMFV"
+    },
+    {
+        "value": "America/Hermosillo",
+        "label": "(GMT -7:00) Mountain Standard Time (America/Hermosillo)",
+        "ulid": "01H2MA80MPWN3KM3Y9QD0YAM51"
+    },
+    {
+        "value": "America/Inuvik",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Inuvik)",
+        "ulid": "01H2MA80MPVPP1K4GG1M4RP3DR"
+    },
+    {
+        "value": "America/Mazatlan",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Mazatlan)",
+        "ulid": "01H2MA80MPAY4QMVT8YMM1MKTA"
+    },
+    {
+        "value": "America/Phoenix",
+        "label": "(GMT -7:00) Mountain Standard Time (America/Phoenix)",
+        "ulid": "01H2MA80MP4JFYHNF07TNPMM12"
+    },
+    {
+        "value": "America/Shiprock",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Shiprock)",
+        "ulid": "01H2MA80MP5Z92SJ5EY9TPK2F2"
+    },
+    {
+        "value": "America/Yellowknife",
+        "label": "(GMT -7:00) Mountain Daylight Time (America/Yellowknife)",
+        "ulid": "01H2MA80MP6WSFNJZ5M27809PV"
+    },
+    {
+        "value": "Canada/Mountain",
+        "label": "(GMT -7:00) Mountain Daylight Time (Canada/Mountain)",
+        "ulid": "01H2MA80MPCK1053X01W68G9EZ"
+    },
+    {
+        "value": "Etc/GMT+7",
+        "label": "(GMT -7:00) GMT-07:00 (Etc/GMT+7)",
+        "ulid": "01H2MA80MPVWC0VTWGNF5ZQR3X"
+    },
+    {
+        "value": "MST",
+        "label": "(GMT -7:00) Mountain Standard Time (MST)",
+        "ulid": "01H2MA80MPZKT0PJKEN237TA9T"
+    },
+    {
+        "value": "MST7MDT",
+        "label": "(GMT -7:00) Mountain Daylight Time (MST7MDT)",
+        "ulid": "01H2MA80MP0P1CK4GR3PCZ2M9X"
+    },
+    {
+        "value": "Mexico/BajaSur",
+        "label": "(GMT -7:00) Mountain Daylight Time (Mexico/BajaSur)",
+        "ulid": "01H2MA80MPPYWQ0BW3X90513DY"
+    },
+    {
+        "value": "Navajo",
+        "label": "(GMT -7:00) Mountain Daylight Time (Navajo)",
+        "ulid": "01H2MA80MP4QX0XSAW99R28FRP"
+    },
+    {
+        "value": "PNT",
+        "label": "(GMT -7:00) Mountain Standard Time (PNT)",
+        "ulid": "01H2MA80MPJMRDQM0VMPNK7SPA"
+    },
+    {
+        "value": "SystemV/MST7",
+        "label": "(GMT -7:00) Mountain Standard Time (SystemV/MST7)",
+        "ulid": "01H2MA80MPFNXDKMQPCM0DCGA7"
+    },
+    {
+        "value": "SystemV/MST7MDT",
+        "label": "(GMT -7:00) Mountain Daylight Time (SystemV/MST7MDT)",
+        "ulid": "01H2MA80MPN3XWWYMCS2BSB07V"
+    },
+    {
+        "value": "US/Arizona",
+        "label": "(GMT -7:00) Mountain Standard Time (US/Arizona)",
+        "ulid": "01H2MA80MPAYKNQSTW4RSC22R7"
+    },
+    {
+        "value": "US/Mountain",
+        "label": "(GMT -7:00) Mountain Daylight Time (US/Mountain)",
+        "ulid": "01H2MA80MPSZYNZ5HYYHN1CX9P"
+    },
+    {
+        "value": "America/Belize",
+        "label": "(GMT -6:00) Central Standard Time (America/Belize)",
+        "ulid": "01H2MA80MPNQKX6QE5M5VZNQAA"
+    },
+    {
+        "value": "America/Cancun",
+        "label": "(GMT -6:00) Central Daylight Time (America/Cancun)",
+        "ulid": "01H2MA80MP3693763AY2FAKWFQ"
+    },
+    {
+        "value": "America/Chicago",
+        "label": "(GMT -6:00) Central Daylight Time (America/Chicago)",
+        "ulid": "01H2MA80MP00BN4ZG373KFESMB"
+    },
+    {
+        "value": "America/Costa_Rica",
+        "label": "(GMT -6:00) Central Standard Time (America/Costa_Rica)",
+        "ulid": "01H2MA80MPT85PM8C1DNTRT7MP"
+    },
+    {
+        "value": "America/El_Salvador",
+        "label": "(GMT -6:00) Central Standard Time (America/El_Salvador)",
+        "ulid": "01H2MA80MPGY79ANYEEKXVDZ4D"
+    },
+    {
+        "value": "America/Guatemala",
+        "label": "(GMT -6:00) Central Standard Time (America/Guatemala)",
+        "ulid": "01H2MA80MP2A0MT1NJBH9S3ZBV"
+    },
+    {
+        "value": "America/Indiana/Knox",
+        "label": "(GMT -6:00) Central Daylight Time (America/Indiana/Knox)",
+        "ulid": "01H2MA80MPQ1EB75EH7E42QRCA"
+    },
+    {
+        "value": "America/Indiana/Petersburg",
+        "label": "(GMT -6:00) Central Daylight Time (America/Indiana/Petersburg)",
+        "ulid": "01H2MA80MP12X5XB2HANMPXHWD"
+    },
+    {
+        "value": "America/Indiana/Vincennes",
+        "label": "(GMT -6:00) Central Daylight Time (America/Indiana/Vincennes)",
+        "ulid": "01H2MA80MPZ5SVRDHS9KRKNBYF"
+    },
+    {
+        "value": "America/Knox_IN",
+        "label": "(GMT -6:00) Eastern Daylight Time (America/Knox_IN)",
+        "ulid": "01H2MA80MP16WWS4894XA9DWY7"
+    },
+    {
+        "value": "America/Managua",
+        "label": "(GMT -6:00) Central Standard Time (America/Managua)",
+        "ulid": "01H2MA80MP1WW12XEWRVQ01JFM"
+    },
+    {
+        "value": "America/Menominee",
+        "label": "(GMT -6:00) Central Daylight Time (America/Menominee)",
+        "ulid": "01H2MA80MPND5B1AWMP7V9XD6K"
+    },
+    {
+        "value": "America/Mervaluea",
+        "label": "(GMT -6:00) Central Daylight Time (America/Mervaluea)",
+        "ulid": "01H2MA80MPCKGR5Z4BJNQ34C9K"
+    },
+    {
+        "value": "America/Mexico_City",
+        "label": "(GMT -6:00) Central Daylight Time (America/Mexico_City)",
+        "ulid": "01H2MA80MPYV7H9THZTK3J9CBK"
+    },
+    {
+        "value": "America/Monterrey",
+        "label": "(GMT -6:00) Central Daylight Time (America/Monterrey)",
+        "ulid": "01H2MA80MPP5B3DQ2JAYV6G7FY"
+    },
+    {
+        "value": "America/North_Dakota/Center",
+        "label": "(GMT -6:00) Central Daylight Time (America/North_Dakota/Center)",
+        "ulid": "01H2MA80MQ9C2V9HDGWG9KWNN4"
+    },
+    {
+        "value": "America/North_Dakota/New_Salem",
+        "label": "(GMT -6:00) Central Daylight Time (America/North_Dakota/New_Salem)",
+        "ulid": "01H2MA80MQAGDJTBN5FNCC3JCA"
+    },
+    {
+        "value": "America/Rainy_River",
+        "label": "(GMT -6:00) Central Daylight Time (America/Rainy_River)",
+        "ulid": "01H2MA80MQRMXFYPXSA8CEKWAP"
+    },
+    {
+        "value": "America/Rankin_Inlet",
+        "label": "(GMT -6:00) Central Daylight Time (America/Rankin_Inlet)",
+        "ulid": "01H2MA80MQYR1KACKS6FPJRQAS"
+    },
+    {
+        "value": "America/Regina",
+        "label": "(GMT -6:00) Central Standard Time (America/Regina)",
+        "ulid": "01H2MA80MQNTPC8W8NDTC9H54A"
+    },
+    {
+        "value": "America/Swift_Current",
+        "label": "(GMT -6:00) Central Standard Time (America/Swift_Current)",
+        "ulid": "01H2MA80MQHMJV7NDYTBRQAFDT"
+    },
+    {
+        "value": "America/Tegucigalpa",
+        "label": "(GMT -6:00) Central Standard Time (America/Tegucigalpa)",
+        "ulid": "01H2MA80MQ9NBWZKB9450X7G46"
+    },
+    {
+        "value": "America/Winnipeg",
+        "label": "(GMT -6:00) Central Daylight Time (America/Winnipeg)",
+        "ulid": "01H2MA80MQDSDARSN60E6SV61F"
+    },
+    {
+        "value": "CST",
+        "label": "(GMT -6:00) Central Daylight Time (CST)",
+        "ulid": "01H2MA80MQF87K9ME7B3H0XBQM"
+    },
+    {
+        "value": "CST6CDT",
+        "label": "(GMT -6:00) Central Daylight Time (CST6CDT)",
+        "ulid": "01H2MA80MQZSTEQBW3C8V7DGP8"
+    },
+    {
+        "value": "Canada/Central",
+        "label": "(GMT -6:00) Central Daylight Time (Canada/Central)",
+        "ulid": "01H2MA80MQRS7ZEESPMDTSY0CK"
+    },
+    {
+        "value": "Canada/East-Saskatchewan",
+        "label": "(GMT -6:00) Central Standard Time (Canada/East-Saskatchewan)",
+        "ulid": "01H2MA80MQM0MXW3EPDZ65KDJF"
+    },
+    {
+        "value": "Canada/Saskatchewan",
+        "label": "(GMT -6:00) Central Standard Time (Canada/Saskatchewan)",
+        "ulid": "01H2MA80MQTX67QDAZKZTB2G0C"
+    },
+    {
+        "value": "Chile/EasterIsland",
+        "label": "(GMT -6:00) Easter Is. Time (Chile/EasterIsland)",
+        "ulid": "01H2MA80MQ2963A9E8THF8EV5T"
+    },
+    {
+        "value": "Etc/GMT+6",
+        "label": "(GMT -6:00) GMT-06:00 (Etc/GMT+6)",
+        "ulid": "01H2MA80MQAGRJY12ZRVYKAHCX"
+    },
+    {
+        "value": "Mexico/General",
+        "label": "(GMT -6:00) Central Daylight Time (Mexico/General)",
+        "ulid": "01H2MA80MQ2W0TAEZ3N1Y3NPYH"
+    },
+    {
+        "value": "Pacific/Easter",
+        "label": "(GMT -6:00) Easter Is. Time (Pacific/Easter)",
+        "ulid": "01H2MA80MQ39B67SMZC79P6W2K"
+    },
+    {
+        "value": "Pacific/Galapagos",
+        "label": "(GMT -6:00) Galapagos Time (Pacific/Galapagos)",
+        "ulid": "01H2MA80MQADH533MS378TRF41"
+    },
+    {
+        "value": "SystemV/CST6",
+        "label": "(GMT -6:00) Central Standard Time (SystemV/CST6)",
+        "ulid": "01H2MA80MQGNBZYKG26YD6NG1H"
+    },
+    {
+        "value": "SystemV/CST6CDT",
+        "label": "(GMT -6:00) Central Daylight Time (SystemV/CST6CDT)",
+        "ulid": "01H2MA80MQ9T7ZBW0140EJJEZA"
+    },
+    {
+        "value": "US/Central",
+        "label": "(GMT -6:00) Central Daylight Time (US/Central)",
+        "ulid": "01H2MA80MQPSNBZ14CFASWGVZP"
+    },
+    {
+        "value": "US/Indiana-Starke",
+        "label": "(GMT -6:00) Eastern Daylight Time (US/Indiana-Starke)",
+        "ulid": "01H2MA80MQZ8JVDFPJ9AHTGKT8"
+    },
+    {
+        "value": "America/Atikokan",
+        "label": "(GMT -5:00) Eastern Standard Time (America/Atikokan)",
+        "ulid": "01H2MA80MQ7B3FXWC56V6M4F23"
+    },
+    {
+        "value": "America/Bogota",
+        "label": "(GMT -5:00) Colombia Time (America/Bogota)",
+        "ulid": "01H2MA80MQPB567NZE8NZFM9R0"
+    },
+    {
+        "value": "America/Cayman",
+        "label": "(GMT -5:00) Eastern Standard Time (America/Cayman)",
+        "ulid": "01H2MA80MQDQ1S23RK73PGZC4R"
+    },
+    {
+        "value": "America/Coral_Harbour",
+        "label": "(GMT -5:00) Eastern Standard Time (America/Coral_Harbour)",
+        "ulid": "01H2MA80MQWE0RRDWWW5Z82V37"
+    },
+    {
+        "value": "America/Detroit",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Detroit)",
+        "ulid": "01H2MA80MQYRFN1DVPHWH6R6VK"
+    },
+    {
+        "value": "America/Eirunepe",
+        "label": "(GMT -5:00) Acre Time (America/Eirunepe)",
+        "ulid": "01H2MA80MQKHSKE86H5QA0D3BS"
+    },
+    {
+        "value": "America/Fort_Wayne",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Fort_Wayne)",
+        "ulid": "01H2MA80MQ4RJ44MCZT2AHWE0T"
+    },
+    {
+        "value": "America/Grand_Turk",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Grand_Turk)",
+        "ulid": "01H2MA80MQYRM9ZSJTGQGN4QAX"
+    },
+    {
+        "value": "America/Guayaquil",
+        "label": "(GMT -5:00) Ecuador Time (America/Guayaquil)",
+        "ulid": "01H2MA80MQZ6VCK8Y5PMCCEB9F"
+    },
+    {
+        "value": "America/Havana",
+        "label": "(GMT -5:00) Central Daylight Time (America/Havana)",
+        "ulid": "01H2MA80MQWVJ7WHGNRTK1J80S"
+    },
+    {
+        "value": "America/Indiana/Indianapolis",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Indiana/Indianapolis)",
+        "ulid": "01H2MA80MQC519DEFH7AC20RPD"
+    },
+    {
+        "value": "America/Indiana/Marengo",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Indiana/Marengo)",
+        "ulid": "01H2MA80MQKG2S3V7MBJZ9B5EC"
+    },
+    {
+        "value": "America/Indiana/Vevay",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Indiana/Vevay)",
+        "ulid": "01H2MA80MQA8VPXNPVECS1ZQHG"
+    },
+    {
+        "value": "America/Indianapolis",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Indianapolis)",
+        "ulid": "01H2MA80MQN1JKY1YVH1A9AHKA"
+    },
+    {
+        "value": "America/Iqaluit",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Iqaluit)",
+        "ulid": "01H2MA80MQWAGTVG21CAEV05H2"
+    },
+    {
+        "value": "America/Jamaica",
+        "label": "(GMT -5:00) Eastern Standard Time (America/Jamaica)",
+        "ulid": "01H2MA80MQG6QSGX3HC75YAFMW"
+    },
+    {
+        "value": "America/Kentucky/Louisville",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Kentucky/Louisville)",
+        "ulid": "01H2MA80MQSCX0VACTM0NWPDX0"
+    },
+    {
+        "value": "America/Kentucky/Monticello",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Kentucky/Monticello)",
+        "ulid": "01H2MA80MQRTT6YF4ZFXMGD88Q"
+    },
+    {
+        "value": "America/Lima",
+        "label": "(GMT -5:00) Peru Time (America/Lima)",
+        "ulid": "01H2MA80MQHSQT0MRCYKW7368C"
+    },
+    {
+        "value": "America/Louisville",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Louisville)",
+        "ulid": "01H2MA80MQ82BACC9EZ70799YM"
+    },
+    {
+        "value": "America/Montreal",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Montreal)",
+        "ulid": "01H2MA80MQT3AE3WQ5EA55GS14"
+    },
+    {
+        "value": "America/Nassau",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Nassau)",
+        "ulid": "01H2MA80MQNBQ15QBMHSAEX4Z9"
+    },
+    {
+        "value": "America/New_York",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/New_York)",
+        "ulid": "01H2MA80MQ1N9508X7X0VVFZ4Y"
+    },
+    {
+        "value": "America/Nipigon",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Nipigon)",
+        "ulid": "01H2MA80MQ9WJ61H8M2F02K0M5"
+    },
+    {
+        "value": "America/Panama",
+        "label": "(GMT -5:00) Eastern Standard Time (America/Panama)",
+        "ulid": "01H2MA80MQRZCSKZBVFDBS0PB8"
+    },
+    {
+        "value": "America/Pangnirtung",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Pangnirtung)",
+        "ulid": "01H2MA80MQZ85NB47C0DYY1Z7M"
+    },
+    {
+        "value": "America/Port-au-Prince",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Port-au-Prince)",
+        "ulid": "01H2MA80MQT2AS16QBXMY44DPX"
+    },
+    {
+        "value": "America/Porto_Acre",
+        "label": "(GMT -5:00) Acre Time (America/Porto_Acre)",
+        "ulid": "01H2MA80MQDZSV4FRGVJB223H1"
+    },
+    {
+        "value": "America/Rio_Branco",
+        "label": "(GMT -5:00) Acre Time (America/Rio_Branco)",
+        "ulid": "01H2MA80MQ8DCQGWZVSQP6C7D9"
+    },
+    {
+        "value": "America/Thunder_Bay",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Thunder_Bay)",
+        "ulid": "01H2MA80MQ1ZN5EK3W047FZCPK"
+    },
+    {
+        "value": "America/Toronto",
+        "label": "(GMT -5:00) Eastern Daylight Time (America/Toronto)",
+        "ulid": "01H2MA80MQGED7R2DVW2KB6RZ1"
+    },
+    {
+        "value": "Brazil/Acre",
+        "label": "(GMT -5:00) Acre Time (Brazil/Acre)",
+        "ulid": "01H2MA80MQWXASNJ5MJNKEJM2F"
+    },
+    {
+        "value": "Canada/Eastern",
+        "label": "(GMT -5:00) Eastern Daylight Time (Canada/Eastern)",
+        "ulid": "01H2MA80MQEAZQZKRXQ75ANYRF"
+    },
+    {
+        "value": "Cuba",
+        "label": "(GMT -5:00) Central Daylight Time (Cuba)",
+        "ulid": "01H2MA80MQ8X3GZPCVGR5W47AG"
+    },
+    {
+        "value": "EST",
+        "label": "(GMT -5:00) Eastern Standard Time (EST)",
+        "ulid": "01H2MA80MQFQZC4BN36P381SFK"
+    },
+    {
+        "value": "EST5EDT",
+        "label": "(GMT -5:00) Eastern Daylight Time (EST5EDT)",
+        "ulid": "01H2MA80MQR8JF35QCYH657R6Z"
+    },
+    {
+        "value": "Etc/GMT+5",
+        "label": "(GMT -5:00) GMT-05:00 (Etc/GMT+5)",
+        "ulid": "01H2MA80MQQJA3TT7TAA1JCFCG"
+    },
+    {
+        "value": "IET",
+        "label": "(GMT -5:00) Eastern Daylight Time (IET)",
+        "ulid": "01H2MA80MQZ7PBA953SZ5WNZHY"
+    },
+    {
+        "value": "Jamaica",
+        "label": "(GMT -5:00) Eastern Standard Time (Jamaica)",
+        "ulid": "01H2MA80MQFQSZ9GXX859JJ6V7"
+    },
+    {
+        "value": "SystemV/EST5",
+        "label": "(GMT -5:00) Eastern Standard Time (SystemV/EST5)",
+        "ulid": "01H2MA80MQW48780RSVCZ5CNK2"
+    },
+    {
+        "value": "SystemV/EST5EDT",
+        "label": "(GMT -5:00) Eastern Daylight Time (SystemV/EST5EDT)",
+        "ulid": "01H2MA80MQRAF2P4W9Y5GKNDCG"
+    },
+    {
+        "value": "US/East-Indiana",
+        "label": "(GMT -5:00) Eastern Daylight Time (US/East-Indiana)",
+        "ulid": "01H2MA80MQ5151C6P2FMMRB1K1"
+    },
+    {
+        "value": "US/Eastern",
+        "label": "(GMT -5:00) Eastern Daylight Time (US/Eastern)",
+        "ulid": "01H2MA80MR860A46PHMHT493M2"
+    },
+    {
+        "value": "US/Michigan",
+        "label": "(GMT -5:00) Eastern Daylight Time (US/Michigan)",
+        "ulid": "01H2MA80MRN3Z84DYTVNHB1E26"
+    },
+    {
+        "value": "America/Anguilla",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Anguilla)",
+        "ulid": "01H2MA80MRF9NSSWJNJDC9WJRA"
+    },
+    {
+        "value": "America/Antigua",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Antigua)",
+        "ulid": "01H2MA80MRJVHWS60CBSYC32C1"
+    },
+    {
+        "value": "America/Aruba",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Aruba)",
+        "ulid": "01H2MA80MREY4XQDNF5WEGH0T9"
+    },
+    {
+        "value": "America/Asuncion",
+        "label": "(GMT -4:00) Paraguay Time (America/Asuncion)",
+        "ulid": "01H2MA80MRFPC6C3TZAWQHCAKF"
+    },
+    {
+        "value": "America/Barbados",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Barbados)",
+        "ulid": "01H2MA80MRN7SREYDRFX4F518H"
+    },
+    {
+        "value": "America/Blanc-Sablon",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Blanc-Sablon)",
+        "ulid": "01H2MA80MRXT3Q3K91MN7S67F2"
+    },
+    {
+        "value": "America/Boa_Vista",
+        "label": "(GMT -4:00) Amazon Time (America/Boa_Vista)",
+        "ulid": "01H2MA80MREEVHZF1BYDDZG554"
+    },
+    {
+        "value": "America/Campo_Grande",
+        "label": "(GMT -4:00) Amazon Time (America/Campo_Grande)",
+        "ulid": "01H2MA80MRR1YN42H7C4E579K6"
+    },
+    {
+        "value": "America/Caracas",
+        "label": "(GMT -4:00) Venezuela Time (America/Caracas)",
+        "ulid": "01H2MA80MRHSAKJZ4D0NR1EEGJ"
+    },
+    {
+        "value": "America/Cuiaba",
+        "label": "(GMT -4:00) Amazon Time (America/Cuiaba)",
+        "ulid": "01H2MA80MRPRNTQHGPYJDG5YFP"
+    },
+    {
+        "value": "America/Curacao",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Curacao)",
+        "ulid": "01H2MA80MR9G8NMZ0NN41QM71E"
+    },
+    {
+        "value": "America/Dominica",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Dominica)",
+        "ulid": "01H2MA80MRBVAR3WTGSA2MH8Q2"
+    },
+    {
+        "value": "America/Glace_Bay",
+        "label": "(GMT -4:00) Atlantic Daylight Time (America/Glace_Bay)",
+        "ulid": "01H2MA80MRRAHG797DV0QYPD2V"
+    },
+    {
+        "value": "America/Goose_Bay",
+        "label": "(GMT -4:00) Atlantic Daylight Time (America/Goose_Bay)",
+        "ulid": "01H2MA80MRBJH53P7105RBQXCG"
+    },
+    {
+        "value": "America/Grenada",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Grenada)",
+        "ulid": "01H2MA80MRB7A5R1XAH2D2D1Z9"
+    },
+    {
+        "value": "America/Guadeloupe",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Guadeloupe)",
+        "ulid": "01H2MA80MR1FTDPX2MD83HZMBY"
+    },
+    {
+        "value": "America/Guyana",
+        "label": "(GMT -4:00) Guyana Time (America/Guyana)",
+        "ulid": "01H2MA80MRWD6REM8VG6JCSVJ5"
+    },
+    {
+        "value": "America/Halifax",
+        "label": "(GMT -4:00) Atlantic Daylight Time (America/Halifax)",
+        "ulid": "01H2MA80MRKYCGWPVW2YPQDQ98"
+    },
+    {
+        "value": "America/La_Paz",
+        "label": "(GMT -4:00) Bolivia Time (America/La_Paz)",
+        "ulid": "01H2MA80MR8X4W9T0VWHFFBKT7"
+    },
+    {
+        "value": "America/Manaus",
+        "label": "(GMT -4:00) Amazon Time (America/Manaus)",
+        "ulid": "01H2MA80MREXPC8FC9TD7JHBT3"
+    },
+    {
+        "value": "America/Martinique",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Martinique)",
+        "ulid": "01H2MA80MRJD6ZYY0Z9ZX73FXP"
+    },
+    {
+        "value": "America/Moncton",
+        "label": "(GMT -4:00) Atlantic Daylight Time (America/Moncton)",
+        "ulid": "01H2MA80MRFF4FSVDC56EGFTXX"
+    },
+    {
+        "value": "America/Montserrat",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Montserrat)",
+        "ulid": "01H2MA80MRCGAAT31FCEG5BPVC"
+    },
+    {
+        "value": "America/Port_of_Spain",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Port_of_Spain)",
+        "ulid": "01H2MA80MRBYKECVA8N0EV39HN"
+    },
+    {
+        "value": "America/Porto_Velho",
+        "label": "(GMT -4:00) Amazon Time (America/Porto_Velho)",
+        "ulid": "01H2MA80MR2TVS18P4N59A7FHX"
+    },
+    {
+        "value": "America/Puerto_Rico",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Puerto_Rico)",
+        "ulid": "01H2MA80MR57K9QYQDKC5HMJM8"
+    },
+    {
+        "value": "America/Santiago",
+        "label": "(GMT -4:00) Chile Time (America/Santiago)",
+        "ulid": "01H2MA80MRPEDK8RZZ95F2VD90"
+    },
+    {
+        "value": "America/Santo_Domingo",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Santo_Domingo)",
+        "ulid": "01H2MA80MRK28Y69604BJ6YC3J"
+    },
+    {
+        "value": "America/St_Kitts",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/St_Kitts)",
+        "ulid": "01H2MA80MR65HYH8N5SQHSGEAY"
+    },
+    {
+        "value": "America/St_Lucia",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/St_Lucia)",
+        "ulid": "01H2MA80MRQ5E0T0RAJ7KAJNMH"
+    },
+    {
+        "value": "America/St_Thomas",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/St_Thomas)",
+        "ulid": "01H2MA80MRPN3Q93443WCD14JT"
+    },
+    {
+        "value": "America/St_Vincent",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/St_Vincent)",
+        "ulid": "01H2MA80MRCA8SYMGQ1HBJEPBB"
+    },
+    {
+        "value": "America/Thule",
+        "label": "(GMT -4:00) Atlantic Daylight Time (America/Thule)",
+        "ulid": "01H2MA80MRCZP8QGZGDGXE7FVP"
+    },
+    {
+        "value": "America/Tortola",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Tortola)",
+        "ulid": "01H2MA80MRXTVWK6YW9GWG6MN1"
+    },
+    {
+        "value": "America/Virgin",
+        "label": "(GMT -4:00) Atlantic Standard Time (America/Virgin)",
+        "ulid": "01H2MA80MR8GSXFKHKDZ7YPXC8"
+    },
+    {
+        "value": "Antarctica/Palmer",
+        "label": "(GMT -4:00) Chile Time (Antarctica/Palmer)",
+        "ulid": "01H2MA80MR9QQHSPGRNM849FV4"
+    },
+    {
+        "value": "Atlantic/Bermuda",
+        "label": "(GMT -4:00) Atlantic Daylight Time (Atlantic/Bermuda)",
+        "ulid": "01H2MA80MRS7W7B46STZ82FZPC"
+    },
+    {
+        "value": "Atlantic/Stanley",
+        "label": "(GMT -4:00) Falkland Is. Summer Time (Atlantic/Stanley)",
+        "ulid": "01H2MA80MR3EQE2HVF657REMHH"
+    },
+    {
+        "value": "Brazil/West",
+        "label": "(GMT -4:00) Amazon Time (Brazil/West)",
+        "ulid": "01H2MA80MRQXRY3X2C7QQ6CRQZ"
+    },
+    {
+        "value": "Canada/Atlantic",
+        "label": "(GMT -4:00) Atlantic Daylight Time (Canada/Atlantic)",
+        "ulid": "01H2MA80MRXJJZ3ZW1DAJ5QNSJ"
+    },
+    {
+        "value": "Chile/Continental",
+        "label": "(GMT -4:00) Chile Time (Chile/Continental)",
+        "ulid": "01H2MA80MRPVAR5HP2YGHAS7ZH"
+    },
+    {
+        "value": "Etc/GMT+4",
+        "label": "(GMT -4:00) GMT-04:00 (Etc/GMT+4)",
+        "ulid": "01H2MA80MRW0KXWKNQE82TQDMN"
+    },
+    {
+        "value": "PRT",
+        "label": "(GMT -4:00) Atlantic Standard Time (PRT)",
+        "ulid": "01H2MA80MRGSQXE6F5JN3BX3AK"
+    },
+    {
+        "value": "SystemV/AST4",
+        "label": "(GMT -4:00) Atlantic Standard Time (SystemV/AST4)",
+        "ulid": "01H2MA80MRBS5VEZ06EB9EQ73S"
+    },
+    {
+        "value": "SystemV/AST4ADT",
+        "label": "(GMT -4:00) Atlantic Daylight Time (SystemV/AST4ADT)",
+        "ulid": "01H2MA80MRBC87TE17QT5ECYJ3"
+    },
+    {
+        "value": "America/St_Johns",
+        "label": "(GMT -3:30) Newfoundland Daylight Time (America/St_Johns)",
+        "ulid": "01H2MA80MRMW77G8QEMEVGF4G3"
+    },
+    {
+        "value": "CNT",
+        "label": "(GMT -3:30) Newfoundland Daylight Time (CNT)",
+        "ulid": "01H2MA80MRNDVGMTDAJXBWMSQG"
+    },
+    {
+        "value": "Canada/Newfoundland",
+        "label": "(GMT -3:30) Newfoundland Daylight Time (Canada/Newfoundland)",
+        "ulid": "01H2MA80MR3C4F3J1E05XF9EP4"
+    },
+    {
+        "value": "AGT",
+        "label": "(GMT -3:00) Argentine Time (AGT)",
+        "ulid": "01H2MA80MRS6VGT2F50QS5HDMX"
+    },
+    {
+        "value": "America/Araguaina",
+        "label": "(GMT -3:00) Brasilia Time (America/Araguaina)",
+        "ulid": "01H2MA80MRTK36WSDE0KCC9BBY"
+    },
+    {
+        "value": "America/Argentina/Buenos_Aires",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Buenos_Aires)",
+        "ulid": "01H2MA80MR3HHW7Q8MD84K031M"
+    },
+    {
+        "value": "America/Argentina/Catamarca",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Catamarca)",
+        "ulid": "01H2MA80MRBWE6E2HW83KKRPWM"
+    },
+    {
+        "value": "America/Argentina/ComodRivadavia",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/ComodRivadavia)",
+        "ulid": "01H2MA80MRXYSSNR2WHKHY5AEZ"
+    },
+    {
+        "value": "America/Argentina/Cordoba",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Cordoba)",
+        "ulid": "01H2MA80MSVJWMN1FMCH6E5VRT"
+    },
+    {
+        "value": "America/Argentina/Jujuy",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Jujuy)",
+        "ulid": "01H2MA80MSFSQGP140JSXR10PM"
+    },
+    {
+        "value": "America/Argentina/La_Rioja",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/La_Rioja)",
+        "ulid": "01H2MA80MS6332V6T7FS24Q0E2"
+    },
+    {
+        "value": "America/Argentina/Mendoza",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Mendoza)",
+        "ulid": "01H2MA80MS0DB1PNAQWQTM38A4"
+    },
+    {
+        "value": "America/Argentina/Rio_Gallegos",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Rio_Gallegos)",
+        "ulid": "01H2MA80MS4MWVJ4C64D27GAEV"
+    },
+    {
+        "value": "America/Argentina/San_Juan",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/San_Juan)",
+        "ulid": "01H2MA80MS4G23KPJAVZWG92G9"
+    },
+    {
+        "value": "America/Argentina/Tucuman",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Tucuman)",
+        "ulid": "01H2MA80MST56KX2A4ECHZ7PCQ"
+    },
+    {
+        "value": "America/Argentina/Ushuaia",
+        "label": "(GMT -3:00) Argentine Time (America/Argentina/Ushuaia)",
+        "ulid": "01H2MA80MS6W1MF8TX18X8JWQV"
+    },
+    {
+        "value": "America/Bahia",
+        "label": "(GMT -3:00) Brasilia Time (America/Bahia)",
+        "ulid": "01H2MA80MSDYJZGB1MK991WF3J"
+    },
+    {
+        "value": "America/Belem",
+        "label": "(GMT -3:00) Brasilia Time (America/Belem)",
+        "ulid": "01H2MA80MS11R0VZ8WRBFXP6Q2"
+    },
+    {
+        "value": "America/Buenos_Aires",
+        "label": "(GMT -3:00) Argentine Time (America/Buenos_Aires)",
+        "ulid": "01H2MA80MS3P0W7G6FZW3S4PW3"
+    },
+    {
+        "value": "America/Catamarca",
+        "label": "(GMT -3:00) Argentine Time (America/Catamarca)",
+        "ulid": "01H2MA80MSV060Y9681EV0Z4S8"
+    },
+    {
+        "value": "America/Cayenne",
+        "label": "(GMT -3:00) French Guiana Time (America/Cayenne)",
+        "ulid": "01H2MA80MSTKASTNMPB77WJ8Y7"
+    },
+    {
+        "value": "America/Cordoba",
+        "label": "(GMT -3:00) Argentine Time (America/Cordoba)",
+        "ulid": "01H2MA80MSHWA2CDS4J16MBJ7S"
+    },
+    {
+        "value": "America/Fortaleza",
+        "label": "(GMT -3:00) Brasilia Time (America/Fortaleza)",
+        "ulid": "01H2MA80MSED4FY69A19KVF5FP"
+    },
+    {
+        "value": "America/Godthab",
+        "label": "(GMT -3:00) Western Greenland Summer Time (America/Godthab)",
+        "ulid": "01H2MA80MSDYGVRR6ATHQ4K0ES"
+    },
+    {
+        "value": "America/Jujuy",
+        "label": "(GMT -3:00) Argentine Time (America/Jujuy)",
+        "ulid": "01H2MA80MSDEJ2NVDB1JDK3WX1"
+    },
+    {
+        "value": "America/Maceio",
+        "label": "(GMT -3:00) Brasilia Time (America/Maceio)",
+        "ulid": "01H2MA80MS7BGYP1QQ1XN601ZE"
+    },
+    {
+        "value": "America/Mendoza",
+        "label": "(GMT -3:00) Argentine Time (America/Mendoza)",
+        "ulid": "01H2MA80MS67VMSYQDZA6T7XG5"
+    },
+    {
+        "value": "America/Miquelon",
+        "label": "(GMT -3:00) Pierre & Miquelon Daylight Time (America/Miquelon)",
+        "ulid": "01H2MA80MSMDJ71KCDPC0ZG4QC"
+    },
+    {
+        "value": "America/Montevvalueeo",
+        "label": "(GMT -3:00) Uruguay Time (America/Montevvalueeo)",
+        "ulid": "01H2MA80MSRNHWQ17HR5M2TMR9"
+    },
+    {
+        "value": "America/Paramaribo",
+        "label": "(GMT -3:00) Suriname Time (America/Paramaribo)",
+        "ulid": "01H2MA80MS2YSS8FJB2P6ZR0WP"
+    },
+    {
+        "value": "America/Recife",
+        "label": "(GMT -3:00) Brasilia Time (America/Recife)",
+        "ulid": "01H2MA80MSMFF0APN0BVRK9ZBK"
+    },
+    {
+        "value": "America/Rosario",
+        "label": "(GMT -3:00) Argentine Time (America/Rosario)",
+        "ulid": "01H2MA80MSCC50JP9ZV2FF98Q1"
+    },
+    {
+        "value": "America/Sao_Paulo",
+        "label": "(GMT -3:00) Brasilia Time (America/Sao_Paulo)",
+        "ulid": "01H2MA80MS2KJ9N5C60MN6YTB0"
+    },
+    {
+        "value": "Antarctica/Rothera",
+        "label": "(GMT -3:00) Rothera Time (Antarctica/Rothera)",
+        "ulid": "01H2MA80MSCVJQEE2Q7BC4K5XS"
+    },
+    {
+        "value": "BET",
+        "label": "(GMT -3:00) Brasilia Time (BET)",
+        "ulid": "01H2MA80MS5EPVX3T2KD9B7ZZB"
+    },
+    {
+        "value": "Brazil/East",
+        "label": "(GMT -3:00) Brasilia Time (Brazil/East)",
+        "ulid": "01H2MA80MSYMTZJ40FZMJQATTC"
+    },
+    {
+        "value": "Etc/GMT+3",
+        "label": "(GMT -3:00) GMT-03:00 (Etc/GMT+3)",
+        "ulid": "01H2MA80MSNVGNNNWYX80BSHQY"
+    },
+    {
+        "value": "America/Noronha",
+        "label": "(GMT -2:00) Fernando de Noronha Time (America/Noronha)",
+        "ulid": "01H2MA80MS0Y0YA1GY17MFEH77"
+    },
+    {
+        "value": "Atlantic/South_Georgia",
+        "label": "(GMT -2:00) South Georgia Standard Time (Atlantic/South_Georgia)",
+        "ulid": "01H2MA80MS4A974P1QS4YTC0DG"
+    },
+    {
+        "value": "Brazil/DeNoronha",
+        "label": "(GMT -2:00) Fernando de Noronha Time (Brazil/DeNoronha)",
+        "ulid": "01H2MA80MS9Y89AZH2TWF2Y9AM"
+    },
+    {
+        "value": "Etc/GMT+2",
+        "label": "(GMT -2:00) GMT-02:00 (Etc/GMT+2)",
+        "ulid": "01H2MA80MSMXTM5BJQ2RT5MF2C"
+    },
+    {
+        "value": "America/Scoresbysund",
+        "label": "(GMT -1:00) Eastern Greenland Summer Time (America/Scoresbysund)",
+        "ulid": "01H2MA80MS1P440HCB0XWJ2FYQ"
+    },
+    {
+        "value": "Atlantic/Azores",
+        "label": "(GMT -1:00) Azores Summer Time (Atlantic/Azores)",
+        "ulid": "01H2MA80MS8S0AM1Z4V020J9YY"
+    },
+    {
+        "value": "Atlantic/Cape_Verde",
+        "label": "(GMT -1:00) Cape Verde Time (Atlantic/Cape_Verde)",
+        "ulid": "01H2MA80MSJCC0V0SCHW7WY885"
+    },
+    {
+        "value": "Etc/GMT+1",
+        "label": "(GMT -1:00) GMT-01:00 (Etc/GMT+1)",
+        "ulid": "01H2MA80MSPJYWJCX3HYP2TBJG"
+    },
+    {
+        "value": "Africa/Abvaluejan",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Abvaluejan)",
+        "ulid": "01H2MA80MS5Q49RKH3BSNATWR9"
+    },
+    {
+        "value": "Africa/Accra",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Accra)",
+        "ulid": "01H2MA80MSQQX78TZJNG517MA5"
+    },
+    {
+        "value": "Africa/Bamako",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Bamako)",
+        "ulid": "01H2MA80MSWZGSZHHNW1X020XR"
+    },
+    {
+        "value": "Africa/Banjul",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Banjul)",
+        "ulid": "01H2MA80MS2K4RCEC4EGG04YCQ"
+    },
+    {
+        "value": "Africa/Bissau",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Bissau)",
+        "ulid": "01H2MA80MSG81TXG79TP8H025V"
+    },
+    {
+        "value": "Africa/Casablanca",
+        "label": "(GMT 0:00) Western European Time (Africa/Casablanca)",
+        "ulid": "01H2MA80MS43EC7YX629Z8H40B"
+    },
+    {
+        "value": "Africa/Conakry",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Conakry)",
+        "ulid": "01H2MA80MS54ZZ5T0583XN3H5V"
+    },
+    {
+        "value": "Africa/Dakar",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Dakar)",
+        "ulid": "01H2MA80MSVVVRNE0AR0AYQW0A"
+    },
+    {
+        "value": "Africa/El_Aaiun",
+        "label": "(GMT 0:00) Western European Time (Africa/El_Aaiun)",
+        "ulid": "01H2MA80MSWM7ZWCAWVPX52CGK"
+    },
+    {
+        "value": "Africa/Freetown",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Freetown)",
+        "ulid": "01H2MA80MSY3SAV2NMBMBGF78Z"
+    },
+    {
+        "value": "Africa/Lome",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Lome)",
+        "ulid": "01H2MA80MS1EGBJRHV54TJXMVE"
+    },
+    {
+        "value": "Africa/Monrovia",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Monrovia)",
+        "ulid": "01H2MA80MSST5B98FYQN8XZ2BX"
+    },
+    {
+        "value": "Africa/Nouakchott",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Nouakchott)",
+        "ulid": "01H2MA80MS6A0T1TE9QGZEQ7V2"
+    },
+    {
+        "value": "Africa/Ouagadougou",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Ouagadougou)",
+        "ulid": "01H2MA80MS7XN4Q517Z4T0SX7M"
+    },
+    {
+        "value": "Africa/Sao_Tome",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Sao_Tome)",
+        "ulid": "01H2MA80MSQ0CNMHC3E1G79JPD"
+    },
+    {
+        "value": "Africa/Timbuktu",
+        "label": "(GMT 0:00) Greenwich Mean Time (Africa/Timbuktu)",
+        "ulid": "01H2MA80MS18Z17C1F1TXEKBBZ"
+    },
+    {
+        "value": "America/Danmarkshavn",
+        "label": "(GMT 0:00) Greenwich Mean Time (America/Danmarkshavn)",
+        "ulid": "01H2MA80MS2V4RMJZR1GGTPTT4"
+    },
+    {
+        "value": "Atlantic/Canary",
+        "label": "(GMT 0:00) Western European Summer Time (Atlantic/Canary)",
+        "ulid": "01H2MA80MSVMGCDV8BJPX31BXT"
+    },
+    {
+        "value": "Atlantic/Faeroe",
+        "label": "(GMT 0:00) Western European Summer Time (Atlantic/Faeroe)",
+        "ulid": "01H2MA80MST1S5YA95T5N1PESH"
+    },
+    {
+        "value": "Atlantic/Madeira",
+        "label": "(GMT 0:00) Western European Summer Time (Atlantic/Madeira)",
+        "ulid": "01H2MA80MSVQDBJTS7YMQJC367"
+    },
+    {
+        "value": "Atlantic/Reykjavik",
+        "label": "(GMT 0:00) Greenwich Mean Time (Atlantic/Reykjavik)",
+        "ulid": "01H2MA80MS366YJ6WK8GCX83R2"
+    },
+    {
+        "value": "Atlantic/St_Helena",
+        "label": "(GMT 0:00) Greenwich Mean Time (Atlantic/St_Helena)",
+        "ulid": "01H2MA80MSHRFJR3B8HQCMN0CY"
+    },
+    {
+        "value": "Eire",
+        "label": "(GMT 0:00) Irish Summer Time (Eire)",
+        "ulid": "01H2MA80MS4X9SDGQHRRW84FHV"
+    },
+    {
+        "value": "Etc/GMT",
+        "label": "(GMT 0:00) GMT+00:00 (Etc/GMT)",
+        "ulid": "01H2MA80MSJ3F9926EY83V3TJ4"
+    },
+    {
+        "value": "Etc/GMT+0",
+        "label": "(GMT 0:00) GMT+00:00 (Etc/GMT+0)",
+        "ulid": "01H2MA80MS4QYBFPBMWS9H3V18"
+    },
+    {
+        "value": "Etc/GMT-0",
+        "label": "(GMT 0:00) GMT+00:00 (Etc/GMT-0)",
+        "ulid": "01H2MA80MSAAHJ3BQTSPQJTNYS"
+    },
+    {
+        "value": "Etc/GMT0",
+        "label": "(GMT 0:00) GMT+00:00 (Etc/GMT0)",
+        "ulid": "01H2MA80MSRCZBHX2RMEY75TCH"
+    },
+    {
+        "value": "Etc/Greenwich",
+        "label": "(GMT 0:00) Greenwich Mean Time (Etc/Greenwich)",
+        "ulid": "01H2MA80MS1HAN4Q3YN8DSKVHX"
+    },
+    {
+        "value": "Etc/UCT",
+        "label": "(GMT 0:00) Coordinated Universal Time (Etc/UCT)",
+        "ulid": "01H2MA80MS6M7YWVWQN2YCHSBX"
+    },
+    {
+        "value": "Etc/UTC",
+        "label": "(GMT 0:00) Coordinated Universal Time (Etc/UTC)",
+        "ulid": "01H2MA80MTWVJSG46WBK6C3PMM"
+    },
+    {
+        "value": "Etc/Universal",
+        "label": "(GMT 0:00) Coordinated Universal Time (Etc/Universal)",
+        "ulid": "01H2MA80MTYW986DSA4DAVR1WZ"
+    },
+    {
+        "value": "Etc/Zulu",
+        "label": "(GMT 0:00) Coordinated Universal Time (Etc/Zulu)",
+        "ulid": "01H2MA80MTTJG6K8391AT1B728"
+    },
+    {
+        "value": "Europe/Belfast",
+        "label": "(GMT 0:00) British Summer Time (Europe/Belfast)",
+        "ulid": "01H2MA80MTNPSNFQMZSV5V0E8F"
+    },
+    {
+        "value": "Europe/Dublin",
+        "label": "(GMT 0:00) Irish Summer Time (Europe/Dublin)",
+        "ulid": "01H2MA80MT0G4RGERTM3CGN0B8"
+    },
+    {
+        "value": "Europe/Guernsey",
+        "label": "(GMT 0:00) British Summer Time (Europe/Guernsey)",
+        "ulid": "01H2MA80MTMNCTZAXFXR0HVMEZ"
+    },
+    {
+        "value": "Europe/Isle_of_Man",
+        "label": "(GMT 0:00) British Summer Time (Europe/Isle_of_Man)",
+        "ulid": "01H2MA80MTFBAEZ9JCT0855N0R"
+    },
+    {
+        "value": "Europe/Jersey",
+        "label": "(GMT 0:00) British Summer Time (Europe/Jersey)",
+        "ulid": "01H2MA80MTM4GJE85GW62Z6MTJ"
+    },
+    {
+        "value": "Europe/Lisbon",
+        "label": "(GMT 0:00) Western European Summer Time (Europe/Lisbon)",
+        "ulid": "01H2MA80MT0KSRD6D68HXQPVBG"
+    },
+    {
+        "value": "Europe/London",
+        "label": "(GMT 0:00) British Summer Time (Europe/London)",
+        "ulid": "01H2MA80MT3WY85NNJFHP1ZDGD"
+    },
+    {
+        "value": "GB",
+        "label": "(GMT 0:00) British Summer Time (GB)",
+        "ulid": "01H2MA80MTA97GERM3HA0B2V6Y"
+    },
+    {
+        "value": "GB-Eire",
+        "label": "(GMT 0:00) British Summer Time (GB-Eire)",
+        "ulid": "01H2MA80MT1FBJ7PZT2DRENC2P"
+    },
+    {
+        "value": "GMT",
+        "label": "(GMT 0:00) Greenwich Mean Time (GMT)",
+        "ulid": "01H2MA80MT3ASY6HNGPRMDB285"
+    },
+    {
+        "value": "GMT0",
+        "label": "(GMT 0:00) GMT+00:00 (GMT0)",
+        "ulid": "01H2MA80MTQ8CQJGWDEZ1H8EY5"
+    },
+    {
+        "value": "Greenwich",
+        "label": "(GMT 0:00) Greenwich Mean Time (Greenwich)",
+        "ulid": "01H2MA80MT9Q2J0KSDEX13YF24"
+    },
+    {
+        "value": "Iceland",
+        "label": "(GMT 0:00) Greenwich Mean Time (Iceland)",
+        "ulid": "01H2MA80MTEMV3S8DP44E19XYA"
+    },
+    {
+        "value": "Portugal",
+        "label": "(GMT 0:00) Western European Summer Time (Portugal)",
+        "ulid": "01H2MA80MTZMCMT3R5V9RZBQMW"
+    },
+    {
+        "value": "UCT",
+        "label": "(GMT 0:00) Coordinated Universal Time (UCT)",
+        "ulid": "01H2MA80MTTX01FVZSMPGXJX02"
+    },
+    {
+        "value": "UTC",
+        "label": "(GMT 0:00) Coordinated Universal Time (UTC)",
+        "ulid": "01H2MA80MT8B81G9DYD70Y451P"
+    },
+    {
+        "value": "Universal",
+        "label": "(GMT 0:00) Coordinated Universal Time (Universal)",
+        "ulid": "01H2MA80MTFVDV394C0KKD57WA"
+    },
+    {
+        "value": "WET",
+        "label": "(GMT 0:00) Western European Summer Time (WET)",
+        "ulid": "01H2MA80MTQA3AMJJ1E4VF65DH"
+    },
+    {
+        "value": "Zulu",
+        "label": "(GMT 0:00) Coordinated Universal Time (Zulu)",
+        "ulid": "01H2MA80MTP1SQPWNV08PDNAMZ"
+    },
+    {
+        "value": "Africa/Algiers",
+        "label": "(GMT 1:00) Central European Time (Africa/Algiers)",
+        "ulid": "01H2MA80MT07P0ZGVZ1AHNA0F5"
+    },
+    {
+        "value": "Africa/Bangui",
+        "label": "(GMT 1:00) Western African Time (Africa/Bangui)",
+        "ulid": "01H2MA80MTV4Z3WA57JYE8D3SQ"
+    },
+    {
+        "value": "Africa/Brazzaville",
+        "label": "(GMT 1:00) Western African Time (Africa/Brazzaville)",
+        "ulid": "01H2MA80MTG5CXWD991NM09ZGN"
+    },
+    {
+        "value": "Africa/Ceuta",
+        "label": "(GMT 1:00) Central European Summer Time (Africa/Ceuta)",
+        "ulid": "01H2MA80MT4NCRPDC9TK3VHTMG"
+    },
+    {
+        "value": "Africa/Douala",
+        "label": "(GMT 1:00) Western African Time (Africa/Douala)",
+        "ulid": "01H2MA80MTZKHG2ENBJRNPYXBF"
+    },
+    {
+        "value": "Africa/Kinshasa",
+        "label": "(GMT 1:00) Western African Time (Africa/Kinshasa)",
+        "ulid": "01H2MA80MT9JF2QBD62QVC1PJV"
+    },
+    {
+        "value": "Africa/Lagos",
+        "label": "(GMT 1:00) Western African Time (Africa/Lagos)",
+        "ulid": "01H2MA80MT454JD85786PS7G0D"
+    },
+    {
+        "value": "Africa/Libreville",
+        "label": "(GMT 1:00) Western African Time (Africa/Libreville)",
+        "ulid": "01H2MA80MTFZXNRYFQK1SY9SH0"
+    },
+    {
+        "value": "Africa/Luanda",
+        "label": "(GMT 1:00) Western African Time (Africa/Luanda)",
+        "ulid": "01H2MA80MT00AT7AM4VZ4EVXG8"
+    },
+    {
+        "value": "Africa/Malabo",
+        "label": "(GMT 1:00) Western African Time (Africa/Malabo)",
+        "ulid": "01H2MA80MTYYZP6E2Y4W677JGE"
+    },
+    {
+        "value": "Africa/Ndjamena",
+        "label": "(GMT 1:00) Western African Time (Africa/Ndjamena)",
+        "ulid": "01H2MA80MTQ8FBFFZGMXZ4BESV"
+    },
+    {
+        "value": "Africa/Niamey",
+        "label": "(GMT 1:00) Western African Time (Africa/Niamey)",
+        "ulid": "01H2MA80MTM4RSCSN5MT8X0Q3F"
+    },
+    {
+        "value": "Africa/Porto-Novo",
+        "label": "(GMT 1:00) Western African Time (Africa/Porto-Novo)",
+        "ulid": "01H2MA80MTXTBGWYH9VZXQX1D1"
+    },
+    {
+        "value": "Africa/Tunis",
+        "label": "(GMT 1:00) Central European Summer Time (Africa/Tunis)",
+        "ulid": "01H2MA80MTVG44H7P56NDQ9B34"
+    },
+    {
+        "value": "Africa/Windhoek",
+        "label": "(GMT 1:00) Western African Summer Time (Africa/Windhoek)",
+        "ulid": "01H2MA80MTR6QS27Q6Q6S989D3"
+    },
+    {
+        "value": "Arctic/Longyearbyen",
+        "label": "(GMT 1:00) Central European Summer Time (Arctic/Longyearbyen)",
+        "ulid": "01H2MA80MT7JQ50YPNX23M1QYY"
+    },
+    {
+        "value": "Atlantic/Jan_Mayen",
+        "label": "(GMT 1:00) Central European Summer Time (Atlantic/Jan_Mayen)",
+        "ulid": "01H2MA80MTE3TP71AJTW146ZRX"
+    },
+    {
+        "value": "CET",
+        "label": "(GMT 1:00) Central European Summer Time (CET)",
+        "ulid": "01H2MA80MTP9MRYRQ08T8F1QBZ"
+    },
+    {
+        "value": "ECT",
+        "label": "(GMT 1:00) Central European Summer Time (ECT)",
+        "ulid": "01H2MA80MTKFW7M8C0GZ3DPTD1"
+    },
+    {
+        "value": "Etc/GMT-1",
+        "label": "(GMT 1:00) GMT+01:00 (Etc/GMT-1)",
+        "ulid": "01H2MA80MT1PP7TX7VFY1N6HW4"
+    },
+    {
+        "value": "Europe/Amsterdam",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Amsterdam)",
+        "ulid": "01H2MA80MTPHCGTV6ZGD168TRR"
+    },
+    {
+        "value": "Europe/Andorra",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Andorra)",
+        "ulid": "01H2MA80MTAYR6Q4VF1GVKVNFT"
+    },
+    {
+        "value": "Europe/Belgrade",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Belgrade)",
+        "ulid": "01H2MA80MTFP8G891G4QFHKCJB"
+    },
+    {
+        "value": "Europe/Berlin",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Berlin)",
+        "ulid": "01H2MA80MTAJ1WV37Y0HEBRNZQ"
+    },
+    {
+        "value": "Europe/Bratislava",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Bratislava)",
+        "ulid": "01H2MA80MTV192T6A6ZKMDAVWY"
+    },
+    {
+        "value": "Europe/Brussels",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Brussels)",
+        "ulid": "01H2MA80MTPJ68EGD39ZKMGHR4"
+    },
+    {
+        "value": "Europe/Budapest",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Budapest)",
+        "ulid": "01H2MA80MTQQT4N9TMFS74NQ6E"
+    },
+    {
+        "value": "Europe/Copenhagen",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Copenhagen)",
+        "ulid": "01H2MA80MT34YG3J1XMF4Q73BC"
+    },
+    {
+        "value": "Europe/Gibraltar",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Gibraltar)",
+        "ulid": "01H2MA80MT3977EPPB6XQBQ51M"
+    },
+    {
+        "value": "Europe/Ljubljana",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Ljubljana)",
+        "ulid": "01H2MA80MTD2HYEPZ14HNRYV8S"
+    },
+    {
+        "value": "Europe/Luxembourg",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Luxembourg)",
+        "ulid": "01H2MA80MTYJPG0HMGKW14ST7W"
+    },
+    {
+        "value": "Europe/Madrvalue",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Madrvalue)",
+        "ulid": "01H2MA80MTV043ZYC8ACCVPZH4"
+    },
+    {
+        "value": "Europe/Malta",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Malta)",
+        "ulid": "01H2MA80MT135EX9PSKHN473X5"
+    },
+    {
+        "value": "Europe/Monaco",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Monaco)",
+        "ulid": "01H2MA80MTR4YD1ZBQQHB53HEV"
+    },
+    {
+        "value": "Europe/Oslo",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Oslo)",
+        "ulid": "01H2MA80MT47T1GZNVNGYH0TF6"
+    },
+    {
+        "value": "Europe/Paris",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Paris)",
+        "ulid": "01H2MA80MTPH2MP2RBKR1JXJWW"
+    },
+    {
+        "value": "Europe/Podgorica",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Podgorica)",
+        "ulid": "01H2MA80MTG08CDZHRAKHRRRQJ"
+    },
+    {
+        "value": "Europe/Prague",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Prague)",
+        "ulid": "01H2MA80MT6MRMS8F4W0DANMS2"
+    },
+    {
+        "value": "Europe/Rome",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Rome)",
+        "ulid": "01H2MA80MTPR1RWJXYPJP2A9YY"
+    },
+    {
+        "value": "Europe/San_Marino",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/San_Marino)",
+        "ulid": "01H2MA80MTA0X9E6KVBB4X719G"
+    },
+    {
+        "value": "Europe/Sarajevo",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Sarajevo)",
+        "ulid": "01H2MA80MTJAKJYN17C1E9DWV2"
+    },
+    {
+        "value": "Europe/Skopje",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Skopje)",
+        "ulid": "01H2MA80MTSR88M8JRN7V4ZZ8X"
+    },
+    {
+        "value": "Europe/Stockholm",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Stockholm)",
+        "ulid": "01H2MA80MTJPDZZDBMGC0M62YE"
+    },
+    {
+        "value": "Europe/Tirane",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Tirane)",
+        "ulid": "01H2MA80MTGJ7R2CJ87R440SXC"
+    },
+    {
+        "value": "Europe/Vaduz",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Vaduz)",
+        "ulid": "01H2MA80MTB69BAR3SEV04YQBT"
+    },
+    {
+        "value": "Europe/Vatican",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Vatican)",
+        "ulid": "01H2MA80MT5ED9RX9V5SMJ55BV"
+    },
+    {
+        "value": "Europe/Vienna",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Vienna)",
+        "ulid": "01H2MA80MTTX8VEXMYPP9MR9R7"
+    },
+    {
+        "value": "Europe/Warsaw",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Warsaw)",
+        "ulid": "01H2MA80MTM33MAGYW3W2CM94X"
+    },
+    {
+        "value": "Europe/Zagreb",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Zagreb)",
+        "ulid": "01H2MA80MVS9D8GVAPATJ3DPSG"
+    },
+    {
+        "value": "Europe/Zurich",
+        "label": "(GMT 1:00) Central European Summer Time (Europe/Zurich)",
+        "ulid": "01H2MA80MV4XDRPVQWKSNB3CVF"
+    },
+    {
+        "value": "MET",
+        "label": "(GMT 1:00) Mvaluedle Europe Summer Time (MET)",
+        "ulid": "01H2MA80MVRWPB20VRVYH8TZ0E"
+    },
+    {
+        "value": "Poland",
+        "label": "(GMT 1:00) Central European Summer Time (Poland)",
+        "ulid": "01H2MA80MVP1J3672PSKTETMX6"
+    },
+    {
+        "value": "ART",
+        "label": "(GMT 2:00) Eastern European Summer Time (ART)",
+        "ulid": "01H2MA80MVBAF28X7HFCBSC1G4"
+    },
+    {
+        "value": "Africa/Blantyre",
+        "label": "(GMT 2:00) Central African Time (Africa/Blantyre)",
+        "ulid": "01H2MA80MVE022AP7CRESBAVBQ"
+    },
+    {
+        "value": "Africa/Bujumbura",
+        "label": "(GMT 2:00) Central African Time (Africa/Bujumbura)",
+        "ulid": "01H2MA80MVRA3X4XD0QEPRR77Z"
+    },
+    {
+        "value": "Africa/Cairo",
+        "label": "(GMT 2:00) Eastern European Summer Time (Africa/Cairo)",
+        "ulid": "01H2MA80MV98736E8Y5JHMW9A1"
+    },
+    {
+        "value": "Africa/Gaborone",
+        "label": "(GMT 2:00) Central African Time (Africa/Gaborone)",
+        "ulid": "01H2MA80MV516YGJ0E6XYR82NF"
+    },
+    {
+        "value": "Africa/Harare",
+        "label": "(GMT 2:00) Central African Time (Africa/Harare)",
+        "ulid": "01H2MA80MVW947V6XWCJZ08SNR"
+    },
+    {
+        "value": "Africa/Johannesburg",
+        "label": "(GMT 2:00) South Africa Standard Time (Africa/Johannesburg)",
+        "ulid": "01H2MA80MVVMQAVNANDGE6A2X8"
+    },
+    {
+        "value": "Africa/Kigali",
+        "label": "(GMT 2:00) Central African Time (Africa/Kigali)",
+        "ulid": "01H2MA80MVM152A17MBSWP1361"
+    },
+    {
+        "value": "Africa/Lubumbashi",
+        "label": "(GMT 2:00) Central African Time (Africa/Lubumbashi)",
+        "ulid": "01H2MA80MVDT44K0SSDWYRR34B"
+    },
+    {
+        "value": "Africa/Lusaka",
+        "label": "(GMT 2:00) Central African Time (Africa/Lusaka)",
+        "ulid": "01H2MA80MVZVQP5XSHE21F4R2T"
+    },
+    {
+        "value": "Africa/Maputo",
+        "label": "(GMT 2:00) Central African Time (Africa/Maputo)",
+        "ulid": "01H2MA80MVDV4H6JJDXT59J127"
+    },
+    {
+        "value": "Africa/Maseru",
+        "label": "(GMT 2:00) South Africa Standard Time (Africa/Maseru)",
+        "ulid": "01H2MA80MVVMJCE4CECZ5QVDVA"
+    },
+    {
+        "value": "Africa/Mbabane",
+        "label": "(GMT 2:00) South Africa Standard Time (Africa/Mbabane)",
+        "ulid": "01H2MA80MV990K546KN5Z0S9V1"
+    },
+    {
+        "value": "Africa/Tripoli",
+        "label": "(GMT 2:00) Eastern European Time (Africa/Tripoli)",
+        "ulid": "01H2MA80MVVY3VJGVGFDQ64XR7"
+    },
+    {
+        "value": "Asia/Amman",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Amman)",
+        "ulid": "01H2MA80MVGJ6297DKAVZ81B44"
+    },
+    {
+        "value": "Asia/Beirut",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Beirut)",
+        "ulid": "01H2MA80MV5F68B8ZGTDB125CF"
+    },
+    {
+        "value": "Asia/Damascus",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Damascus)",
+        "ulid": "01H2MA80MVSD8WV74GYEW1AMB3"
+    },
+    {
+        "value": "Asia/Gaza",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Gaza)",
+        "ulid": "01H2MA80MV8C9BWJC4CTCNA58D"
+    },
+    {
+        "value": "Asia/Istanbul",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Istanbul)",
+        "ulid": "01H2MA80MVRJAPYB0SV0HETK78"
+    },
+    {
+        "value": "Asia/Jerusalem",
+        "label": "(GMT 2:00) Israel Standard Time (Asia/Jerusalem)",
+        "ulid": "01H2MA80MVBWPJRNBKK3QWRR1F"
+    },
+    {
+        "value": "Asia/Nicosia",
+        "label": "(GMT 2:00) Eastern European Summer Time (Asia/Nicosia)",
+        "ulid": "01H2MA80MV0C70JV7Y6E74YG0X"
+    },
+    {
+        "value": "Asia/Tel_Aviv",
+        "label": "(GMT 2:00) Israel Standard Time (Asia/Tel_Aviv)",
+        "ulid": "01H2MA80MVTC6MDQKHRQBTR736"
+    },
+    {
+        "value": "CAT",
+        "label": "(GMT 2:00) Central African Time (CAT)",
+        "ulid": "01H2MA80MVJGFV9TDWAK9HSF89"
+    },
+    {
+        "value": "EET",
+        "label": "(GMT 2:00) Eastern European Summer Time (EET)",
+        "ulid": "01H2MA80MVRPHZP47AQKTZ6GZ8"
+    },
+    {
+        "value": "Egypt",
+        "label": "(GMT 2:00) Eastern European Summer Time (Egypt)",
+        "ulid": "01H2MA80MVJ0FZSZ96DR6T3RZE"
+    },
+    {
+        "value": "Etc/GMT-2",
+        "label": "(GMT 2:00) GMT+02:00 (Etc/GMT-2)",
+        "ulid": "01H2MA80MVXSM7212PZWZ2CDJA"
+    },
+    {
+        "value": "Europe/Athens",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Athens)",
+        "ulid": "01H2MA80MV0V0ZA0Q8DQV5VM3H"
+    },
+    {
+        "value": "Europe/Bucharest",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Bucharest)",
+        "ulid": "01H2MA80MVQ75F9ETRHR88QBJC"
+    },
+    {
+        "value": "Europe/Chisinau",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Chisinau)",
+        "ulid": "01H2MA80MVE80CM6TQTGMGZRBP"
+    },
+    {
+        "value": "Europe/Helsinki",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Helsinki)",
+        "ulid": "01H2MA80MV4KYJG5ZVPJGCTJGN"
+    },
+    {
+        "value": "Europe/Istanbul",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Istanbul)",
+        "ulid": "01H2MA80MVNY06GD6ASR2CZWYP"
+    },
+    {
+        "value": "Europe/Kaliningrad",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Kaliningrad)",
+        "ulid": "01H2MA80MVAXPSXY1154CPFM09"
+    },
+    {
+        "value": "Europe/Kiev",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Kiev)",
+        "ulid": "01H2MA80MVNDDNPPXN18F7B9B5"
+    },
+    {
+        "value": "Europe/Mariehamn",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Mariehamn)",
+        "ulid": "01H2MA80MVDK36JHP5WAMJRHRF"
+    },
+    {
+        "value": "Europe/Minsk",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Minsk)",
+        "ulid": "01H2MA80MVBZHMWQT11H143YVK"
+    },
+    {
+        "value": "Europe/Nicosia",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Nicosia)",
+        "ulid": "01H2MA80MVKDAXMQXJX8SF32JH"
+    },
+    {
+        "value": "Europe/Riga",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Riga)",
+        "ulid": "01H2MA80MVZS7DDDWSHXJCTDA2"
+    },
+    {
+        "value": "Europe/Simferopol",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Simferopol)",
+        "ulid": "01H2MA80MVYK85WPN18ZWJZFGW"
+    },
+    {
+        "value": "Europe/Sofia",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Sofia)",
+        "ulid": "01H2MA80MVPPN00RPFVK8P2YVD"
+    },
+    {
+        "value": "Europe/Tallinn",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Tallinn)",
+        "ulid": "01H2MA80MVP0MM4N16JJY7D35T"
+    },
+    {
+        "value": "Europe/Tiraspol",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Tiraspol)",
+        "ulid": "01H2MA80MV2TN7BFKK85HKEWMZ"
+    },
+    {
+        "value": "Europe/Uzhgorod",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Uzhgorod)",
+        "ulid": "01H2MA80MVXTR9H3YZ5ZQQ0XW5"
+    },
+    {
+        "value": "Europe/Vilnius",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Vilnius)",
+        "ulid": "01H2MA80MVVS2KKZ5A008F0BQT"
+    },
+    {
+        "value": "Europe/Zaporozhye",
+        "label": "(GMT 2:00) Eastern European Summer Time (Europe/Zaporozhye)",
+        "ulid": "01H2MA80MVJVF33Q4YWF5EFYBP"
+    },
+    {
+        "value": "Israel",
+        "label": "(GMT 2:00) Israel Standard Time (Israel)",
+        "ulid": "01H2MA80MVWNXP3MNEZY9JCE52"
+    },
+    {
+        "value": "Libya",
+        "label": "(GMT 2:00) Eastern European Time (Libya)",
+        "ulid": "01H2MA80MVTMPFSVM25R7TFS73"
+    },
+    {
+        "value": "Turkey",
+        "label": "(GMT 2:00) Eastern European Summer Time (Türkiye)",
+        "ulid": "01H2MA80MVCRJHNHC010ZPV3KS"
+    },
+    {
+        "value": "Africa/Addis_Ababa",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Addis_Ababa)",
+        "ulid": "01H2MA80MVF6D7CA4MEPZ9QN08"
+    },
+    {
+        "value": "Africa/Asmera",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Asmera)",
+        "ulid": "01H2MA80MVE6RZJZ0TF7BV4CGD"
+    },
+    {
+        "value": "Africa/Dar_es_Salaam",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Dar_es_Salaam)",
+        "ulid": "01H2MA80MVNVD1XAFRTG20DZ89"
+    },
+    {
+        "value": "Africa/Djibouti",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Djibouti)",
+        "ulid": "01H2MA80MVA478MY64C6RVA7BP"
+    },
+    {
+        "value": "Africa/Kampala",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Kampala)",
+        "ulid": "01H2MA80MVC3SQP98ANB4BN4CB"
+    },
+    {
+        "value": "Africa/Khartoum",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Khartoum)",
+        "ulid": "01H2MA80MVYPVB10YTTS1VR05C"
+    },
+    {
+        "value": "Africa/Mogadishu",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Mogadishu)",
+        "ulid": "01H2MA80MVB5QBJN0JAE3Z56RV"
+    },
+    {
+        "value": "Africa/Nairobi",
+        "label": "(GMT 3:00) Eastern African Time (Africa/Nairobi)",
+        "ulid": "01H2MA80MVGZ2QN7B5DC9DMFDJ"
+    },
+    {
+        "value": "Antarctica/Syowa",
+        "label": "(GMT 3:00) Syowa Time (Antarctica/Syowa)",
+        "ulid": "01H2MA80MV335WMAPKKXYM4BWB"
+    },
+    {
+        "value": "Asia/Aden",
+        "label": "(GMT 3:00) Arabia Standard Time (Asia/Aden)",
+        "ulid": "01H2MA80MVMWNC1SEF7HGX9ADG"
+    },
+    {
+        "value": "Asia/Baghdad",
+        "label": "(GMT 3:00) Arabia Daylight Time (Asia/Baghdad)",
+        "ulid": "01H2MA80MVGKT86JTBRM4A8PHF"
+    },
+    {
+        "value": "Asia/Bahrain",
+        "label": "(GMT 3:00) Arabia Standard Time (Asia/Bahrain)",
+        "ulid": "01H2MA80MV23S35PF95TSHDT9G"
+    },
+    {
+        "value": "Asia/Kuwait",
+        "label": "(GMT 3:00) Arabia Standard Time (Asia/Kuwait)",
+        "ulid": "01H2MA80MV75E67YFMJ59W750S"
+    },
+    {
+        "value": "Asia/Qatar",
+        "label": "(GMT 3:00) Arabia Standard Time (Asia/Qatar)",
+        "ulid": "01H2MA80MVDQ6C77BMDD4X974S"
+    },
+    {
+        "value": "Asia/Riyadh",
+        "label": "(GMT 3:00) Arabia Standard Time (Asia/Riyadh)",
+        "ulid": "01H2MA80MV2G3SW0PJ0HE4N17Y"
+    },
+    {
+        "value": "EAT",
+        "label": "(GMT 3:00) Eastern African Time (EAT)",
+        "ulid": "01H2MA80MVBZYVH104HX93YMCJ"
+    },
+    {
+        "value": "Etc/GMT-3",
+        "label": "(GMT 3:00) GMT+03:00 (Etc/GMT-3)",
+        "ulid": "01H2MA80MVWA7QVSGEPC37ZK1N"
+    },
+    {
+        "value": "Europe/Moscow",
+        "label": "(GMT 3:00) Moscow Daylight Time (Europe/Moscow)",
+        "ulid": "01H2MA80MV6BKF70FTBZDF0G60"
+    },
+    {
+        "value": "Europe/Volgograd",
+        "label": "(GMT 3:00) Volgograd Summer Time (Europe/Volgograd)",
+        "ulid": "01H2MA80MVFNKT75E5ZXDSZHD6"
+    },
+    {
+        "value": "Indian/Antananarivo",
+        "label": "(GMT 3:00) Eastern African Time (Indian/Antananarivo)",
+        "ulid": "01H2MA80MVRDHHXFX5WJZ8HRR9"
+    },
+    {
+        "value": "Indian/Comoro",
+        "label": "(GMT 3:00) Eastern African Time (Indian/Comoro)",
+        "ulid": "01H2MA80MV1QZDPWA6HYPYSYYR"
+    },
+    {
+        "value": "Indian/Mayotte",
+        "label": "(GMT 3:00) Eastern African Time (Indian/Mayotte)",
+        "ulid": "01H2MA80MVNX3K9517TGQHKDTK"
+    },
+    {
+        "value": "W-SU",
+        "label": "(GMT 3:00) Moscow Daylight Time (W-SU)",
+        "ulid": "01H2MA80MW4Q58DFZCXWQ0ENQX"
+    },
+    {
+        "value": "Asia/Riyadh87",
+        "label": "(GMT 3:7 ) GMT+03:07(Asia/Riyadh87)",
+        "ulid": "01H2MA80MW7V4X0M7NHAKETGGE"
+    },
+    {
+        "value": "Asia/Riyadh88",
+        "label": "(GMT 3:7 ) GMT+03:07(Asia/Riyadh88)",
+        "ulid": "01H2MA80MWGK9RBR20CZKB41TB"
+    },
+    {
+        "value": "Asia/Riyadh89",
+        "label": "(GMT 3:7 ) GMT+03:07(Asia/Riyadh89)",
+        "ulid": "01H2MA80MWF8Q3JZJWP4M2A6N8"
+    },
+    {
+        "value": "Mvalueeast/Riyadh87",
+        "label": "(GMT 3:7 ) GMT+03:07(Mvalueeast/Riyadh87)",
+        "ulid": "01H2MA80MWF8XQR772P8CYQXGX"
+    },
+    {
+        "value": "Mvalueeast/Riyadh88",
+        "label": "(GMT 3:7 ) GMT+03:07(Mvalueeast/Riyadh88)",
+        "ulid": "01H2MA80MW3YTCTSR3A2107XH6"
+    },
+    {
+        "value": "Mvalueeast/Riyadh89",
+        "label": "(GMT 3:7 ) GMT+03:07(Mvalueeast/Riyadh89)",
+        "ulid": "01H2MA80MWQQST0N05QGV85NC4"
+    },
+    {
+        "value": "Asia/Tehran",
+        "label": "(GMT 3:30) Iran Standard Time (Asia/Tehran)",
+        "ulid": "01H2MA80MW7FJJTNX3DN87AZTN"
+    },
+    {
+        "value": "Iran",
+        "label": "(GMT 3:30) Iran Standard Time (Iran)",
+        "ulid": "01H2MA80MWR78YA1ZFT2EYB7W1"
+    },
+    {
+        "value": "Asia/Baku",
+        "label": "(GMT 4:00) Azerbaijan Summer Time (Asia/Baku)",
+        "ulid": "01H2MA80MWKXF38SXCDP68EW32"
+    },
+    {
+        "value": "Asia/Dubai",
+        "label": "(GMT 4:00) Gulf Standard Time (Asia/Dubai)",
+        "ulid": "01H2MA80MWAZVB6HEQ9TZFGXF5"
+    },
+    {
+        "value": "Asia/Muscat",
+        "label": "(GMT 4:00) Gulf Standard Time (Asia/Muscat)",
+        "ulid": "01H2MA80MWG89AQ6QQR8BVHBS7"
+    },
+    {
+        "value": "Asia/Tbilisi",
+        "label": "(GMT 4:00) Georgia Time (Asia/Tbilisi)",
+        "ulid": "01H2MA80MW2WGHR2K3BJKBT3K4"
+    },
+    {
+        "value": "Asia/Yerevan",
+        "label": "(GMT 4:00) Armenia Summer Time (Asia/Yerevan)",
+        "ulid": "01H2MA80MW373MC6TB6MVZBSWW"
+    },
+    {
+        "value": "Etc/GMT-4",
+        "label": "(GMT 4:00) GMT+04:00 (Etc/GMT-4)",
+        "ulid": "01H2MA80MW3EHGC1JBWN869F5W"
+    },
+    {
+        "value": "Europe/Samara",
+        "label": "(GMT 4:00) Samara Summer Time (Europe/Samara)",
+        "ulid": "01H2MA80MWV7ATZGCZQBJE8ATF"
+    },
+    {
+        "value": "Indian/Mahe",
+        "label": "(GMT 4:00) Seychelles Time (Indian/Mahe)",
+        "ulid": "01H2MA80MW15XY4JKS7DMKKPNH"
+    },
+    {
+        "value": "Indian/Mauritius",
+        "label": "(GMT 4:00) Mauritius Time (Indian/Mauritius)",
+        "ulid": "01H2MA80MWQG15XK3NF8YTYV6D"
+    },
+    {
+        "value": "Indian/Reunion",
+        "label": "(GMT 4:00) Reunion Time (Indian/Reunion)",
+        "ulid": "01H2MA80MWN4NDBD6C99NGN5J6"
+    },
+    {
+        "value": "NET",
+        "label": "(GMT 4:00) Armenia Summer Time (NET)",
+        "ulid": "01H2MA80MW7NN36331KW747BMJ"
+    },
+    {
+        "value": "Asia/Kabul",
+        "label": "(GMT 4:30) Afghanistan Time (Asia/Kabul)",
+        "ulid": "01H2MA80MW9VDQ1BEEYP5D70TB"
+    },
+    {
+        "value": "Asia/Aqtau",
+        "label": "(GMT 5:00) Aqtau Time (Asia/Aqtau)",
+        "ulid": "01H2MA80MWXJAQS7AHMA4E16KR"
+    },
+    {
+        "value": "Asia/Aqtobe",
+        "label": "(GMT 5:00) Aqtobe Time (Asia/Aqtobe)",
+        "ulid": "01H2MA80MWXVX54KV0X26RNXP8"
+    },
+    {
+        "value": "Asia/Ashgabat",
+        "label": "(GMT 5:00) Turkmenistan Time (Asia/Ashgabat)",
+        "ulid": "01H2MA80MWJ1SGR08TWABSZAX2"
+    },
+    {
+        "value": "Asia/Ashkhabad",
+        "label": "(GMT 5:00) Turkmenistan Time (Asia/Ashkhabad)",
+        "ulid": "01H2MA80MWG3N60VMGYHM5Q4D2"
+    },
+    {
+        "value": "Asia/Dushanbe",
+        "label": "(GMT 5:00) Tajikistan Time (Asia/Dushanbe)",
+        "ulid": "01H2MA80MWSWP9BJW8MSRTXE3R"
+    },
+    {
+        "value": "Asia/Karachi",
+        "label": "(GMT 5:00) Pakistan Time (Asia/Karachi)",
+        "ulid": "01H2MA80MW4Z6QY4H1ZVTTDQW1"
+    },
+    {
+        "value": "Asia/Oral",
+        "label": "(GMT 5:00) Oral Time (Asia/Oral)",
+        "ulid": "01H2MA80MWVPQZYQ02AA22EFWQ"
+    },
+    {
+        "value": "Asia/Samarkand",
+        "label": "(GMT 5:00) Uzbekistan Time (Asia/Samarkand)",
+        "ulid": "01H2MA80MW6MBC0X9GMPS67K15"
+    },
+    {
+        "value": "Asia/Tashkent",
+        "label": "(GMT 5:00) Uzbekistan Time (Asia/Tashkent)",
+        "ulid": "01H2MA80MW12DZ8H45J48VWZT9"
+    },
+    {
+        "value": "Asia/Yekaterinburg",
+        "label": "(GMT 5:00) Yekaterinburg Summer Time (Asia/Yekaterinburg)",
+        "ulid": "01H2MA80MW7XZZREV181BFQ64K"
+    },
+    {
+        "value": "Etc/GMT-5",
+        "label": "(GMT 5:00) GMT+05:00 (Etc/GMT-5)",
+        "ulid": "01H2MA80MWA758KW3N39J2HPP3"
+    },
+    {
+        "value": "Indian/Kerguelen",
+        "label": "(GMT 5:00) French Southern & Antarctic Lands Time (Indian/Kerguelen)",
+        "ulid": "01H2MA80MW2HWNR78HFHRHWSDG"
+    },
+    {
+        "value": "Indian/Maldives",
+        "label": "(GMT 5:00) Maldives Time (Indian/Maldives)",
+        "ulid": "01H2MA80MWDH2VKF7YRA9P2KC8"
+    },
+    {
+        "value": "PLT",
+        "label": "(GMT 5:00) Pakistan Time (PLT)",
+        "ulid": "01H2MA80MW29ZE4KG66T728M1T"
+    },
+    {
+        "value": "Asia/Calcutta",
+        "label": "(GMT 5:30) India Standard Time (Asia/Calcutta)",
+        "ulid": "01H2MA80MW1QSZMYW7EW2WX6RE"
+    },
+    {
+        "value": "Asia/Colombo",
+        "label": "(GMT 5:30) Sri Lanka Time (Asia/Colombo)",
+        "ulid": "01H2MA80MWB43M5ERCPNP6KMM9"
+    },
+    {
+        "value": "Asia/Kolkata",
+        "label": "(GMT 5:30) India Standard Time (Asia/Kolkata)",
+        "ulid": "01H2MA80MWSEB43CP3PJHJS6Z9"
+    },
+    {
+        "value": "IST",
+        "label": "(GMT 5:30) India Standard Time (IST)",
+        "ulid": "01H2MA80MWB91AJGBS9PW2TGS2"
+    },
+    {
+        "value": "Asia/Katmandu",
+        "label": "(GMT 5:45 ) Nepal Time (Asia/Katmandu)",
+        "ulid": "01H2MA80MWMCX84KS9F5MT27S2"
+    },
+    {
+        "value": "Antarctica/Mawson",
+        "label": "(GMT 6:00) Mawson Time (Antarctica/Mawson)",
+        "ulid": "01H2MA80MWCDBWQM8CBG4G5ABR"
+    },
+    {
+        "value": "Antarctica/Vostok",
+        "label": "(GMT 6:00) Vostok Time (Antarctica/Vostok)",
+        "ulid": "01H2MA80MWYT452M2ZQ58545JV"
+    },
+    {
+        "value": "Asia/Almaty",
+        "label": "(GMT 6:00) Alma-Ata Time (Asia/Almaty)",
+        "ulid": "01H2MA80MWCPSS4C3D9JHR47V5"
+    },
+    {
+        "value": "Asia/Bishkek",
+        "label": "(GMT 6:00) Kirgizstan Time (Asia/Bishkek)",
+        "ulid": "01H2MA80MWK8WQM9WXS27Q0P7C"
+    },
+    {
+        "value": "Asia/Dacca",
+        "label": "(GMT 6:00) Bangladesh Time (Asia/Dacca)",
+        "ulid": "01H2MA80MWE9Q0PZDXBGX07A9D"
+    },
+    {
+        "value": "Asia/Dhaka",
+        "label": "(GMT 6:00) Bangladesh Time (Asia/Dhaka)",
+        "ulid": "01H2MA80MW5DCH9HY8VG9RQQ9M"
+    },
+    {
+        "value": "Asia/Novosibirsk",
+        "label": "(GMT 6:00) Novosibirsk Summer Time (Asia/Novosibirsk)",
+        "ulid": "01H2MA80MWXFV0GF6YDN8916TM"
+    },
+    {
+        "value": "Asia/Omsk",
+        "label": "(GMT 6:00) Omsk Summer Time (Asia/Omsk)",
+        "ulid": "01H2MA80MW5DAZGNVV1DGK5389"
+    },
+    {
+        "value": "Asia/Qyzylorda",
+        "label": "(GMT 6:00) Qyzylorda Time (Asia/Qyzylorda)",
+        "ulid": "01H2MA80MW55S8V2YYFX8F5N5R"
+    },
+    {
+        "value": "Asia/Thimbu",
+        "label": "(GMT 6:00) Bhutan Time (Asia/Thimbu)",
+        "ulid": "01H2MA80MWGACJCPM1KX2J18CE"
+    },
+    {
+        "value": "Asia/Thimphu",
+        "label": "(GMT 6:00) Bhutan Time (Asia/Thimphu)",
+        "ulid": "01H2MA80MW8XSCR20T4EJKEC13"
+    },
+    {
+        "value": "BST",
+        "label": "(GMT 6:00) Bangladesh Time (BST)",
+        "ulid": "01H2MA80MWBDCQ4YJ6HN6Q2937"
+    },
+    {
+        "value": "Etc/GMT-6",
+        "label": "(GMT 6:00) GMT+06:00 (Etc/GMT-6)",
+        "ulid": "01H2MA80MWKZKCZYBG2W6YWVH5"
+    },
+    {
+        "value": "Indian/Chagos",
+        "label": "(GMT 6:00) Indian Ocean Territory Time (Indian/Chagos)",
+        "ulid": "01H2MA80MWGG3K7B21SN96A2BY"
+    },
+    {
+        "value": "Asia/Rangoon",
+        "label": "(GMT 6:30) Myanmar Time (Asia/Rangoon)",
+        "ulid": "01H2MA80MW3BGG57S9TKTYR9NW"
+    },
+    {
+        "value": "Indian/Cocos",
+        "label": "(GMT 6:30) Cocos Islands Time (Indian/Cocos)",
+        "ulid": "01H2MA80MWS9YVJBE390QS0ENT"
+    },
+    {
+        "value": "Antarctica/Davis",
+        "label": "(GMT 7:00) Davis Time (Antarctica/Davis)",
+        "ulid": "01H2MA80MWSFR0612BKMPSVJ2N"
+    },
+    {
+        "value": "Asia/Bangkok",
+        "label": "(GMT 7:00) Indochina Time (Asia/Bangkok)",
+        "ulid": "01H2MA80MWN15VW15MKY1RH962"
+    },
+    {
+        "value": "Asia/Hovd",
+        "label": "(GMT 7:00) Hovd Summer Time (Asia/Hovd)",
+        "ulid": "01H2MA80MWWEEWGV4668A6HGFJ"
+    },
+    {
+        "value": "Asia/Jakarta",
+        "label": "(GMT 7:00) West Indonesia Time (Asia/Jakarta)",
+        "ulid": "01H2MA80MW7JJHNBGR6HKMM38W"
+    },
+    {
+        "value": "Asia/Krasnoyarsk",
+        "label": "(GMT 7:00) Krasnoyarsk Summer Time (Asia/Krasnoyarsk)",
+        "ulid": "01H2MA80MWJSBAF179E24JBNY9"
+    },
+    {
+        "value": "Asia/Phnom_Penh",
+        "label": "(GMT 7:00) Indochina Time (Asia/Phnom_Penh)",
+        "ulid": "01H2MA80MW02BP0NYMVDTAB0CC"
+    },
+    {
+        "value": "Asia/Pontianak",
+        "label": "(GMT 7:00) West Indonesia Time (Asia/Pontianak)",
+        "ulid": "01H2MA80MWXTW46K9CTQ82QG5P"
+    },
+    {
+        "value": "Asia/Saigon",
+        "label": "(GMT 7:00) Indochina Time (Asia/Saigon)",
+        "ulid": "01H2MA80MW95378SABHY8NRWSK"
+    },
+    {
+        "value": "Asia/Vientiane",
+        "label": "(GMT 7:00) Indochina Time (Asia/Vientiane)",
+        "ulid": "01H2MA80MWH0Z4G766Y563KE8Q"
+    },
+    {
+        "value": "Etc/GMT-7",
+        "label": "(GMT 7:00) GMT+07:00 (Etc/GMT-7)",
+        "ulid": "01H2MA80MWVEBZRWBY2TW2FTCK"
+    },
+    {
+        "value": "Indian/Christmas",
+        "label": "(GMT 7:00) Christmas Island Time (Indian/Christmas)",
+        "ulid": "01H2MA80MWVVV01GZ8V79AVXN0"
+    },
+    {
+        "value": "VST",
+        "label": "(GMT 7:00) Indochina Time (VST)",
+        "ulid": "01H2MA80MW4QE1VQFGHR52GEAS"
+    },
+    {
+        "value": "Antarctica/Casey",
+        "label": "(GMT 8:00) Western Standard Time (Australia)(Antarctica/Casey)",
+        "ulid": "01H2MA80MWZW2W64TBYSKENT05"
+    },
+    {
+        "value": "Asia/Brunei",
+        "label": "(GMT 8:00) Brunei Time (Asia/Brunei)",
+        "ulid": "01H2MA80MWF4NTV8XH0CR1NJYR"
+    },
+    {
+        "value": "Asia/Chongqing",
+        "label": "(GMT 8:00) China Standard Time (Asia/Chongqing)",
+        "ulid": "01H2MA80MXMC3TKG138YNPMZS6"
+    },
+    {
+        "value": "Asia/Harbin",
+        "label": "(GMT 8:00) China Standard Time (Asia/Harbin)",
+        "ulid": "01H2MA80MXAQETSREVJ235QK03"
+    },
+    {
+        "value": "Asia/Hong_Kong",
+        "label": "(GMT 8:00) Hong Kong Time (Asia/Hong_Kong)",
+        "ulid": "01H2MA80MXP4N7CQ6AQP974CMM"
+    },
+    {
+        "value": "Asia/Irkutsk",
+        "label": "(GMT 8:00) Irkutsk Summer Time (Asia/Irkutsk)",
+        "ulid": "01H2MA80MXX8SPTSPVGMT5E46P"
+    },
+    {
+        "value": "Asia/Kashgar",
+        "label": "(GMT 8:00) China Standard Time (Asia/Kashgar)",
+        "ulid": "01H2MA80MX7Y7TA0621HA878AJ"
+    },
+    {
+        "value": "Asia/Kuala_Lumpur",
+        "label": "(GMT 8:00) Malaysia Time (Asia/Kuala_Lumpur)",
+        "ulid": "01H2MA80MXQ54N3GVQ6Y19A6YE"
+    },
+    {
+        "value": "Asia/Kuching",
+        "label": "(GMT 8:00) Malaysia Time (Asia/Kuching)",
+        "ulid": "01H2MA80MXEAR7EHCEDM04JMH0"
+    },
+    {
+        "value": "Asia/Macao",
+        "label": "(GMT 8:00) China Standard Time (Asia/Macao)",
+        "ulid": "01H2MA80MXV8J1M5B0DXG4STZX"
+    },
+    {
+        "value": "Asia/Makassar",
+        "label": "(GMT 8:00) Central Indonesia Time (Asia/Makassar)",
+        "ulid": "01H2MA80MXGT346XE2SYW1106S"
+    },
+    {
+        "value": "Asia/Manila",
+        "label": "(GMT 8:00) Philippines Time (Asia/Manila)",
+        "ulid": "01H2MA80MXK3JSXNJC1ZCE02B3"
+    },
+    {
+        "value": "Asia/Shanghai",
+        "label": "(GMT 8:00) China Standard Time (Asia/Shanghai)",
+        "ulid": "01H2MA80MXC5P32NEY1BMJ7Y83"
+    },
+    {
+        "value": "Asia/Singapore",
+        "label": "(GMT 8:00) Singapore Time (Asia/Singapore)",
+        "ulid": "01H2MA80MXA6ZNMQ54HAC8371G"
+    },
+    {
+        "value": "Asia/Taipei",
+        "label": "(GMT 8:00) China Standard Time (Asia/Taipei)",
+        "ulid": "01H2MA80MXPA3XZGG8MTXZ763P"
+    },
+    {
+        "value": "Asia/Ujung_Pandang",
+        "label": "(GMT 8:00) Central Indonesia Time (Asia/Ujung_Pandang)",
+        "ulid": "01H2MA80MX934BERM9Q1RTYDVQ"
+    },
+    {
+        "value": "Asia/Ulaanbaatar",
+        "label": "(GMT 8:00) Ulaanbaatar Summer Time (Asia/Ulaanbaatar)",
+        "ulid": "01H2MA80MXHQEC1RBFC0QCZ3DM"
+    },
+    {
+        "value": "Asia/Ulan_Bator",
+        "label": "(GMT 8:00) Ulaanbaatar Summer Time (Asia/Ulan_Bator)",
+        "ulid": "01H2MA80MXD725424FVPEYHY6K"
+    },
+    {
+        "value": "Asia/Urumqi",
+        "label": "(GMT 8:00) China Standard Time (Asia/Urumqi)",
+        "ulid": "01H2MA80MXX5Q2HZQGAAHRMY9M"
+    },
+    {
+        "value": "Australia/Perth",
+        "label": "(GMT 8:00) Western Standard Time (Australia)(Australia/Perth)",
+        "ulid": "01H2MA80MXZXJYR7PHEZXMNBFW"
+    },
+    {
+        "value": "Australia/West",
+        "label": "(GMT 8:00) Western Standard Time (Australia)(Australia/West)",
+        "ulid": "01H2MA80MXZVWX3MNGWDGSRR4H"
+    },
+    {
+        "value": "CTT",
+        "label": "(GMT 8:00) China Standard Time (CTT)",
+        "ulid": "01H2MA80MXHNJVDZ74JN9BF5Q2"
+    },
+    {
+        "value": "Etc/GMT-8",
+        "label": "(GMT 8:00) GMT+08:00 (Etc/GMT-8)",
+        "ulid": "01H2MA80MXD9R5MCA49H3Q5TEK"
+    },
+    {
+        "value": "PRC",
+        "label": "(GMT 8:00) China Standard Time (PRC)",
+        "ulid": "01H2MA80MX51CE40B3D5ZYX02A"
+    },
+    {
+        "value": "Singapore",
+        "label": "(GMT 8:00) Singapore Time (Singapore)",
+        "ulid": "01H2MA80MXAMX7ZKNTP0CT2PF4"
+    },
+    {
+        "value": "Asia/Choibalsan",
+        "label": "(GMT 9:00) Choibalsan Summer Time (Asia/Choibalsan)",
+        "ulid": "01H2MA80MXJEY8NSH4HFRFD2BG"
+    },
+    {
+        "value": "Asia/Dili",
+        "label": "(GMT 9:00) East Timor Time (Asia/Dili)",
+        "ulid": "01H2MA80MXSE9978BJJCHPZ0DD"
+    },
+    {
+        "value": "Asia/Jayapura",
+        "label": "(GMT 9:00) East Indonesia Time (Asia/Jayapura)",
+        "ulid": "01H2MA80MXMBNB5AMG7JB8YJ8R"
+    },
+    {
+        "value": "Asia/Pyongyang",
+        "label": "(GMT 9:00) Korea Standard Time (Asia/Pyongyang)",
+        "ulid": "01H2MA80MX4QAK4NQWVC8JA978"
+    },
+    {
+        "value": "Asia/Seoul",
+        "label": "(GMT 9:00) Korea Standard Time (Asia/Seoul)",
+        "ulid": "01H2MA80MX8JFM2CVDW8RP8BHR"
+    },
+    {
+        "value": "Asia/Tokyo",
+        "label": "(GMT 9:00) Japan Standard Time (Asia/Tokyo)",
+        "ulid": "01H2MA80MX5N0QFTDV63F2FRPE"
+    },
+    {
+        "value": "Asia/Yakutsk",
+        "label": "(GMT 9:00) Yaktsk Summer Time (Asia/Yakutsk)",
+        "ulid": "01H2MA80MXBTXCW6AT7S4235RK"
+    },
+    {
+        "value": "Etc/GMT-9",
+        "label": "(GMT 9:00) GMT+09:00 (Etc/GMT-9)",
+        "ulid": "01H2MA80MXT43N5G7774QBT0JR"
+    },
+    {
+        "value": "JST",
+        "label": "(GMT 9:00) Japan Standard Time (JST)",
+        "ulid": "01H2MA80MXJJGDRAEQRZVFE505"
+    },
+    {
+        "value": "Japan",
+        "label": "(GMT 9:00) Japan Standard Time (Japan)",
+        "ulid": "01H2MA80MX0MKKFTZDJXZET9Z0"
+    },
+    {
+        "value": "Pacific/Palau",
+        "label": "(GMT 9:00) Palau Time (Pacific/Palau)",
+        "ulid": "01H2MA80MXJ7JFS651EKJV3PFK"
+    },
+    {
+        "value": "ROK",
+        "label": "(GMT 9:00) Korea Standard Time (ROK)",
+        "ulid": "01H2MA80MXCHTH9HSZ2QE1244Q"
+    },
+    {
+        "value": "ACT",
+        "label": "(GMT 9:30) Central Standard Time (Northern Territory)(ACT)",
+        "ulid": "01H2MA80MXTGAN735NRPJSRKPS"
+    },
+    {
+        "value": "Australia/Adelavaluee",
+        "label": "(GMT 9:30) Central Standard Time (South Australia)(Australia/Adelavaluee)",
+        "ulid": "01H2MA80MXWEP6HVMMXF2MBE3Q"
+    },
+    {
+        "value": "Australia/Broken_Hill",
+        "label": "(GMT 9:30) Central Standard Time (South Australia/New South Wales)(Australia/Broken_Hill)",
+        "ulid": "01H2MA80MXTW8KBE973KR7226B"
+    },
+    {
+        "value": "Australia/Darwin",
+        "label": "(GMT 9:30) Central Standard Time (Northern Territory)(Australia/Darwin)",
+        "ulid": "01H2MA80MXM95X0JJ83AV0NJ23"
+    },
+    {
+        "value": "Australia/North",
+        "label": "(GMT 9:30) Central Standard Time (Northern Territory)(Australia/North)",
+        "ulid": "01H2MA80MX5QSADP5ADMVYM65B"
+    },
+    {
+        "value": "Australia/South",
+        "label": "(GMT 9:30) Central Standard Time (South Australia)(Australia/South)",
+        "ulid": "01H2MA80MXX073PJXN1FPRY2TF"
+    },
+    {
+        "value": "Australia/Yancowinna",
+        "label": "(GMT 9:30) Central Standard Time (South Australia/New South Wales)(Australia/Yancowinna)",
+        "ulid": "01H2MA80MXGK22KWEQ8XD8QBWR"
+    },
+    {
+        "value": "AET",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(AET)",
+        "ulid": "01H2MA80MXD2QMVCNYXZJXTJTE"
+    },
+    {
+        "value": "Antarctica/DumontDUrville",
+        "label": "(GMT 10:00) Dumont-d Urville Time (Antarctica/DumontDUrville)",
+        "ulid": "01H2MA80MXS7E6TGHAV5QDXGAJ"
+    },
+    {
+        "value": "Asia/Sakhalin",
+        "label": "(GMT 10:00) Sakhalin Summer Time (Asia/Sakhalin)",
+        "ulid": "01H2MA80MX3NE4BDW2JG01S6C2"
+    },
+    {
+        "value": "Asia/Vladivostok",
+        "label": "(GMT 10:00) Vladivostok Summer Time (Asia/Vladivostok)",
+        "ulid": "01H2MA80MXSQDWQ85EQGFXGGD1"
+    },
+    {
+        "value": "Australia/ACT",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(Australia/ACT)",
+        "ulid": "01H2MA80MXVS1DV0BXC0FM0EHJ"
+    },
+    {
+        "value": "Australia/Brisbane",
+        "label": "(GMT 10:00) Eastern Standard Time (Queensland)(Australia/Brisbane)",
+        "ulid": "01H2MA80MX3SMDCG1JAHS4ZDZ0"
+    },
+    {
+        "value": "Australia/Canberra",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(Australia/Canberra)",
+        "ulid": "01H2MA80MXZP93C80F7J3A6W55"
+    },
+    {
+        "value": "Australia/Currie",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(Australia/Currie)",
+        "ulid": "01H2MA80MX9AV7FFGMTFYZJS4B"
+    },
+    {
+        "value": "Australia/Hobart",
+        "label": "(GMT 10:00) Eastern Standard Time (Tasmania)(Australia/Hobart)",
+        "ulid": "01H2MA80MXJYV58J6FHDYSZK0F"
+    },
+    {
+        "value": "Australia/Lindeman",
+        "label": "(GMT 10:00) Eastern Standard Time (Queensland)(Australia/Lindeman)",
+        "ulid": "01H2MA80MX8J4SQRMBQQBPAVNW"
+    },
+    {
+        "value": "Australia/Melbourne",
+        "label": "(GMT 10:00) Eastern Standard Time (Victoria)(Australia/Melbourne)",
+        "ulid": "01H2MA80MXBJFG5TS4SHXXCKVP"
+    },
+    {
+        "value": "Australia/NSW",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(Australia/NSW)",
+        "ulid": "01H2MA80MXBXQYZZXE5AVKD6Q5"
+    },
+    {
+        "value": "Australia/Queensland",
+        "label": "(GMT 10:00) Eastern Standard Time (Queensland)(Australia/Queensland)",
+        "ulid": "01H2MA80MX4XNKPMSX508MS1WZ"
+    },
+    {
+        "value": "Australia/Sydney",
+        "label": "(GMT 10:00) Eastern Standard Time (New South Wales)(Australia/Sydney)",
+        "ulid": "01H2MA80MXNDTVG4J1A3NHB3PC"
+    },
+    {
+        "value": "Australia/Tasmania",
+        "label": "(GMT 10:00) Eastern Standard Time (Tasmania)(Australia/Tasmania)",
+        "ulid": "01H2MA80MXQR14GN2VZ71Z019J"
+    },
+    {
+        "value": "Australia/Victoria",
+        "label": "(GMT 10:00) Eastern Standard Time (Victoria)(Australia/Victoria)",
+        "ulid": "01H2MA80MX9TVRD2GEJBNKPS4H"
+    },
+    {
+        "value": "Etc/GMT-10",
+        "label": "(GMT 10:00) GMT+10:00 (Etc/GMT-10)(Etc/GMT-10)",
+        "ulid": "01H2MA80MXFSBBWNY45G4CHS6W"
+    },
+    {
+        "value": "Pacific/Guam",
+        "label": "(GMT 10:00) Chamorro Standard Time (Pacific/Guam)",
+        "ulid": "01H2MA80MX4TJVJEEVSX1GH55X"
+    },
+    {
+        "value": "Pacific/Port_Moresby",
+        "label": "(GMT 10:00) Papua New Guinea Time (Pacific/Port_Moresby)",
+        "ulid": "01H2MA80MXQ8HZQ4X3S0Y3PH3Q"
+    },
+    {
+        "value": "Pacific/Saipan",
+        "label": "(GMT 10:00) Chamorro Standard Time (Pacific/Saipan)",
+        "ulid": "01H2MA80MX4BV5SQVMNQ7MCJTG"
+    },
+    {
+        "value": "Pacific/Truk",
+        "label": "(GMT 10:00) Truk Time (Pacific/Truk)",
+        "ulid": "01H2MA80MXF13ZS0R1FAAR5GR1"
+    },
+    {
+        "value": "Pacific/Yap",
+        "label": "(GMT 10:00) Yap Time (Pacific/Yap)",
+        "ulid": "01H2MA80MX4Q9AS66ZE030RT3G"
+    },
+    {
+        "value": "Australia/LHI",
+        "label": "(GMT 10:30) Load Howe Standard Time (Australia/LHI)",
+        "ulid": "01H2MA80MXBE2G3QEJD0AZX2PC"
+    },
+    {
+        "value": "Australia/Lord_Howe",
+        "label": "(GMT 10:30) Load Howe Standard Time (Australia/Lord_Howe)",
+        "ulid": "01H2MA80MX5B0JT9TWM8KKH9TY"
+    },
+    {
+        "value": "Asia/Magadan",
+        "label": "(GMT 11:00) Magadan Summer Time (Asia/Magadan)",
+        "ulid": "01H2MA80MXPR95NNCQEK5TZ4TG"
+    },
+    {
+        "value": "Etc/GMT-11",
+        "label": "(GMT 11:00) GMT+11:00 (Etc/GMT-11)",
+        "ulid": "01H2MA80MX84MGWS2PHBBSJAPS"
+    },
+    {
+        "value": "Pacific/Efate",
+        "label": "(GMT 11:00) Vanuatu Time (Pacific/Efate)",
+        "ulid": "01H2MA80MXG51RN41MXVC7CKYY"
+    },
+    {
+        "value": "Pacific/Guadalcanal",
+        "label": "(GMT 11:00) Solomon Is. Time (Pacific/Guadalcanal)",
+        "ulid": "01H2MA80MXBJPBPJQ436Q5DY4X"
+    },
+    {
+        "value": "Pacific/Kosrae",
+        "label": "(GMT 11:00) Kosrae Time (Pacific/Kosrae)",
+        "ulid": "01H2MA80MYEMEFH3A55A32YECJ"
+    },
+    {
+        "value": "Pacific/Noumea",
+        "label": "(GMT 11:00) New Caledonia Time (Pacific/Noumea)",
+        "ulid": "01H2MA80MY33NEZ4TP1EC18ZD5"
+    },
+    {
+        "value": "Pacific/Ponape",
+        "label": "(GMT 11:00) Ponape Time (Pacific/Ponape)",
+        "ulid": "01H2MA80MYWFHK691Z67R6Y860"
+    },
+    {
+        "value": "SST",
+        "label": "(GMT 11:00) Solomon Is. Time (SST)",
+        "ulid": "01H2MA80MYSSZJXAQ6QTDTCSGC"
+    },
+    {
+        "value": "Pacific/Norfolk",
+        "label": "(GMT 11:30) Norfolk Time (Pacific/Norfolk)",
+        "ulid": "01H2MA80MYPDDFENSCY5PDH90V"
+    },
+    {
+        "value": "Antarctica/McMurdo",
+        "label": "(GMT 12:00) New Zealand Standard Time (Antarctica/McMurdo)",
+        "ulid": "01H2MA80MYRDBTJG402QGSGD2Z"
+    },
+    {
+        "value": "Antarctica/South_Pole",
+        "label": "(GMT 12:00) New Zealand Standard Time (Antarctica/South_Pole)",
+        "ulid": "01H2MA80MYJGT2PPR6RRXGC1C9"
+    },
+    {
+        "value": "Asia/Anadyr",
+        "label": "(GMT 12:00) Anadyr Summer Time (Asia/Anadyr)",
+        "ulid": "01H2MA80MY4H8FDZMX5YPNG9RY"
+    },
+    {
+        "value": "Asia/Kamchatka",
+        "label": "(GMT 12:00) Petropavlovsk-Kamchatski Summer Time (Asia/Kamchatka)",
+        "ulid": "01H2MA80MY8JGT9PJQ5Q9KM7D0"
+    },
+    {
+        "value": "Etc/GMT-12",
+        "label": "(GMT 12:00) GMT+12:00 (Etc/GMT-12)",
+        "ulid": "01H2MA80MY44RRHFJYAJKMVG0N"
+    },
+    {
+        "value": "Kwajalein",
+        "label": "(GMT 12:00) Marshall Islands Time (Kwajalein)",
+        "ulid": "01H2MA80MYP6CPT6TS59TPDQEF"
+    },
+    {
+        "value": "NST",
+        "label": "(GMT 12:00) New Zealand Standard Time (NST)",
+        "ulid": "01H2MA80MYT4H5WKSWJCXSXETB"
+    },
+    {
+        "value": "NZ",
+        "label": "(GMT 12:00) New Zealand Standard Time (NZ)",
+        "ulid": "01H2MA80MYG41HEM73AA7R8DCB"
+    },
+    {
+        "value": "Pacific/Auckland",
+        "label": "(GMT 12:00) New Zealand Standard Time (Pacific/Auckland)",
+        "ulid": "01H2MA80MYG4WG5BEWBFZ0HN91"
+    },
+    {
+        "value": "Pacific/Fiji",
+        "label": "(GMT 12:00) Fiji Time (Pacific/Fiji)",
+        "ulid": "01H2MA80MYGR65J94DH79X45VR"
+    },
+    {
+        "value": "Pacific/Funafuti",
+        "label": "(GMT 12:00) Tuvalu Time (Pacific/Funafuti)",
+        "ulid": "01H2MA80MYW3GCCFMP9AP47K4S"
+    },
+    {
+        "value": "Pacific/Kwajalein",
+        "label": "(GMT 12:00) Marshall Islands Time (Pacific/Kwajalein)",
+        "ulid": "01H2MA80MY67Y9SXBJWKN1XA4A"
+    },
+    {
+        "value": "Pacific/Majuro",
+        "label": "(GMT 12:00) Marshall Islands Time (Pacific/Majuro)",
+        "ulid": "01H2MA80MYMMK7Z22FBZ4W3C61"
+    },
+    {
+        "value": "Pacific/Nauru",
+        "label": "(GMT 12:00) Nauru Time (Pacific/Nauru)",
+        "ulid": "01H2MA80MY448EGZH3P3F7Y76B"
+    },
+    {
+        "value": "Pacific/Tarawa",
+        "label": "(GMT 12:00) Gilbert Is. Time (Pacific/Tarawa)",
+        "ulid": "01H2MA80MYQFWTNK3TDZPH0R6G"
+    },
+    {
+        "value": "Pacific/Wake",
+        "label": "(GMT 12:00) Wake Time (Pacific/Wake)",
+        "ulid": "01H2MA80MY4ACCGPNYC9Q98778"
+    },
+    {
+        "value": "Pacific/Wallis",
+        "label": "(GMT 12:00) Wallis & Futuna Time (Pacific/Wallis)",
+        "ulid": "01H2MA80MYQF9X28EV0BWAB60H"
+    },
+    {
+        "value": "NZ-CHAT",
+        "label": "(GMT 12:45 ) Chatham Standard Time (NZ-CHAT)",
+        "ulid": "01H2MA80MYR67RG5AQRJGA5A2F"
+    },
+    {
+        "value": "Pacific/Chatham",
+        "label": "(GMT 12:45 ) Chatham Standard Time (Pacific/Chatham)",
+        "ulid": "01H2MA80MYTF8FB3QGXDY1ZX5C"
+    },
+    {
+        "value": "Etc/GMT-13",
+        "label": "(GMT 13:00) GMT+13:00 (Etc/GMT-13)",
+        "ulid": "01H2MA80MYP66KJQM3AHXWDJ1F"
+    },
+    {
+        "value": "Pacific/Enderbury",
+        "label": "(GMT 13:00) Phoenix Is. Time (Pacific/Enderbury)",
+        "ulid": "01H2MA80MYM8CQPZTWSCTVKXQ7"
+    },
+    {
+        "value": "Pacific/Tongatapu",
+        "label": "(GMT 13:00) Tonga Time (Pacific/Tongatapu)",
+        "ulid": "01H2MA80MYM9CSF2XKKWBNMWCS"
+    },
+    {
+        "value": "Etc/GMT-14",
+        "label": "(GMT 14:00) GMT+14:00 (Etc/GMT-14)",
+        "ulid": "01H2MA80MY8TCMC7D7PHAHRZGM"
+    },
+    {
+        "value": "Pacific/Kiritimati",
+        "label": "(GMT 14:00) Line Is. Time (Pacific/Kiritimati):",
+        "ulid": "01H2MA80MY7A6QBYVNGH51K22F"
+    },
+    {
+        "value": "America/Resolute",
+        "label": "(GMT -6:00) Central Standard Time (America/Resolute)",
+        "ulid": "01H2MA80MY8RKP687S8S9BRF7K"
+    },
+    {
+        "value": "America/Creston",
+        "label": "(GMT -7:00) Mountain Standard Time (America/Creston)",
+        "ulid": "01H2MA80MYDR5098SJXA67BMTB"
+    }
+]
